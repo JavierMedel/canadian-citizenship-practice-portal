@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz | Canadian Citizenship Practice Portal</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>Canadian Citizenship Practice Portal</h1>
+        <a class="link-back" href="/">← Back to all tests</a>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="progress">
+        <div class="progress__row">
+          <div id="progressText">Question 1 of 1</div>
+          <div id="scoreText">Score: 0</div>
+        </div>
+        <div class="timer" aria-hidden="true">
+          <div id="timerBar" class="timer__bar"></div>
+        </div>
+        <div id="timerCount" class="timer__count" aria-live="polite"></div>
+      </section>
+
+      <section class="question">
+        <h2 id="questionTitle">Loading question…</h2>
+        <p id="questionText" class="subtle-text"></p>
+        <form id="answers" class="answers" aria-live="polite"></form>
+        <p id="feedback" class="feedback hidden"></p>
+        <div class="actions">
+          <button id="prevBtn" class="btn btn--ghost" type="button">Previous</button>
+          <button id="nextBtn" class="btn" type="button" disabled>Next</button>
+        </div>
+      </section>
+
+      <section id="results" class="question hidden">
+        <h2>Results</h2>
+        <p id="resultsText" class="subtle-text">You scored 0.</p>
+        <div style="display:flex; gap:.5rem;">
+          <a class="btn" href="/">Back to tests</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>Good luck on your test!</p>
+      </div>
+    </footer>
+
+    <script src="assets/js/questions.js" type="module"></script>
+  </body>
+  </html>

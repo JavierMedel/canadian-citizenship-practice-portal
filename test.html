@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test | Canadian Citizenship Practice Portal</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="gc-header" role="banner">
+      <div class="container">
+        <h1>Citizenship Practice Test</h1>
+        <a class="link-back" href="index.html">← Back to test sets</a>
+      </div>
+    </header>
+
+    <main id="main" class="container" role="main">
+      <section id="progress" class="progress" aria-label="Test progress">
+        <div class="progress__row">
+          <div id="progress-label">Question <span id="q-number">1</span> of <span id="q-total">20</span></div>
+          <div id="score-label">Score: <span id="score">0</span></div>
+        </div>
+        <div class="timer" aria-live="polite">
+          <div class="timer__bar" id="timer-bar"></div>
+          <div class="timer__count" id="timer-count">20</div>
+        </div>
+      </section>
+
+      <section id="question" class="question" aria-labelledby="question-text">
+        <h2 id="question-text">Loading question…</h2>
+
+        <form id="answers-form" class="answers" role="radiogroup" aria-labelledby="question-text">
+          <!-- Answers injected dynamically -->
+        </form>
+
+        <div id="feedback" class="feedback" aria-live="polite"></div>
+
+        <div class="actions">
+          <button id="next-btn" class="btn" type="button" disabled>Next</button>
+        </div>
+      </section>
+
+      <dialog id="confirm-next" class="modal" aria-labelledby="confirm-title">
+        <h3 id="confirm-title">Move to the next question?</h3>
+        <p>Your selection is recorded. Do you want to proceed?</p>
+        <div class="modal__actions">
+          <button id="confirm-cancel" class="btn btn--ghost" type="button">Stay</button>
+          <button id="confirm-continue" class="btn" type="button">Continue</button>
+        </div>
+      </dialog>
+
+      <section id="results" class="results hidden" aria-labelledby="results-title">
+        <h2 id="results-title">Test Results</h2>
+        <p>
+          Correct answers: <strong id="result-correct">0</strong>
+          out of <strong id="result-total">20</strong>
+        </p>
+        <p id="result-status" class="result-status">Status: —</p>
+        <div class="actions">
+          <button id="restart-btn" class="btn" type="button">Restart this test</button>
+          <a class="btn btn--ghost" href="index.html">Return to test sets</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="gc-footer" role="contentinfo">
+      <div class="container">
+        <p>
+          Practice interface inspired by Government of Canada web style.
+        </p>
+      </div>
+    </footer>
+
+    <script type="module" src="assets/js/test.js"></script>
+  </body>
+  </html>

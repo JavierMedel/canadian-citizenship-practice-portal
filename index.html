@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canadian Citizenship Practice Portal</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="gc-header" role="banner">
+      <div class="container">
+        <h1>Canadian Citizenship Practice Portal</h1>
+        <p class="subtitle">Load a test set and its questions to begin</p>
+      </div>
+    </header>
+
+    <main id="main" class="container" role="main">
+      <section aria-labelledby="test-sets-title">
+        <div class="section-header">
+          <h2 id="test-sets-title">Available Test Sets</h2>
+          <div id="last-score" class="last-score" aria-live="polite"></div>
+        </div>
+        <div id="test-set-grid" class="grid" role="list"></div>
+        <div id="grid-status" class="sr-only" aria-live="polite"></div>
+
+        <div id="load-status" class="status" aria-live="polite"></div>
+
+        <h2 id="questions-title">Questions</h2>
+        <div id="question-container" class="question-container" role="list"></div>
+      </section>
+    </main>
+
+    <footer class="gc-footer" role="contentinfo">
+      <div class="container">
+        <p>
+          Practice interface inspired by Government of Canada web style.
+        </p>
+      </div>
+    </footer>
+
+    <script type="module" src="assets/js/index.js"></script>
+  </body>
+  </html>
