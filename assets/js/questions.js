@@ -98,6 +98,7 @@ function normalizeQuestion(raw) {
   let choices = raw.possible_answers ?? raw.options ?? raw.choices ?? raw.answers ?? raw.alternatives ?? [];
   if (!Array.isArray(choices)) choices = [];
   const explanation = raw.explanatory_sentence ?? raw.explanation ?? raw.explanatory ?? raw.note ?? '';
+  const question_number = raw.question_number ?? raw.number ?? raw.id ?? '';
 
   const toLabel = (c) => (typeof c === 'string' ? c : (c?.label ?? c?.text ?? String(c)));
   const labels = choices.map(toLabel);
@@ -154,7 +155,7 @@ function normalizeQuestion(raw) {
   }
 
   const normalizedChoices = labels.map((label) => ({ label }));
-  return { stem, choices: normalizedChoices, correctIndex, explanation };
+  return { stem, choices: normalizedChoices, correctIndex, explanation, question_number };
 }
 
 async function loadQuestionsForTest(testFile) {
@@ -182,6 +183,12 @@ function renderQuestion(q, index, total, state) {
   setText(textEl, '');
   answersEl.innerHTML = '';
   hide(feedbackEl);
+  // show source question number if available
+  const sourceEl = $('#questionSource');
+  if (sourceEl) {
+    if (q.question_number) setText(sourceEl, `Source: question_${q.question_number}`);
+    else setText(sourceEl, 'Source: —');
+  }
   nextBtn.disabled = true;
 
   q.choices.forEach((choice, i) => {
