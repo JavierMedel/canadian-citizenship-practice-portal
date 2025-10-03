@@ -87,10 +87,12 @@ function renderTestGrid(files) {
     gridEl.appendChild(p);
     return;
   }
+  const signed = Boolean(getSignedInUser());
   files.forEach((name, idx) => {
     const item = document.createElement('button');
     item.className = 'test-card';
     item.setAttribute('role', 'listitem');
+    item.dataset.index = String(idx);
     const label = `Test ${idx + 1}`;
     item.title = `Open ${label}`;
     item.innerHTML = `
@@ -101,7 +103,20 @@ function renderTestGrid(files) {
       window.location.href = `questions.html?test=${encodeURIComponent(name)}`;
     });
     gridEl.appendChild(item);
+    // if not signed in and index is 5 (6th item), insert a sign-in prompt and stop adding further tiles
+    if (!signed && idx === 4 && files.length > 5) {
+      const prompt = document.createElement('div');
+      prompt.className = 'test-card signin-prompt';
+      prompt.innerHTML = `<div class="prompt">Sign in to unlock more tests<br/><span class="cta">Sign in</span></div>`;
+      prompt.addEventListener('click', () => {
+        document.getElementById('userArea')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
+      gridEl.appendChild(prompt);
+      return; // stop rendering further tests
+    }
   });
+  // after rendering, update access limits (in case auth state known)
+  setTimeout(() => applyAccessLimits(), 0);
 }
 
 // Note: Question rendering on index is kept for fallback/manual checks.
@@ -141,6 +156,98 @@ function renderQuestions(questions) {
     containerEl.appendChild(card);
   }
 }
+
+// new: import helper to check signed-in user
+import { getSignedInUser } from './auth.js';
+
+// new: apply access limits for unsigned users (lock cards after first 5)
+function applyAccessLimits() {
+  const signed = Boolean(getSignedInUser());
+  // adjust selector if your card element uses a different class/selector
+  const cards = document.querySelectorAll('.test-card');
+  cards.forEach((card, i) => {
+    const locked = !signed && i >= 5;
+    if (locked) {
+      card.classList.add('locked');
+      // disable the button so any attached click handlers won't fire
+      try { card.disabled = true; } catch (e) {}
+
+      // add overlay if not present
+      if (!card.querySelector('.lock-overlay')) {
+        const overlay = document.createElement('div');
+        overlay.className = 'lock-overlay';
+        overlay.innerHTML = `
+          <div class="lock-inner">
+            <div class="lock-icon">🔒</div>
+            <div class="lock-text">Sign in to unlock</div>
+          </div>
+        `;
+        card.style.position = card.style.position || 'relative';
+        card.appendChild(overlay);
+        // clicking overlay invites sign-in and shows a toast
+        overlay.addEventListener('click', (e) => {
+          e.stopPropagation();
+          showSignInToast('Sign in to unlock more tests');
+          preventSignInPrompt(e);
+        }, { passive: false });
+      }
+
+    } else {
+      card.classList.remove('locked');
+      try { card.disabled = false; } catch (e) {}
+      const overlay = card.querySelector('.lock-overlay');
+      overlay?.remove();
+    }
+  });
+}
+
+// small toast helper shown when user attempts a locked action
+function showSignInToast(text) {
+  let toast = document.getElementById('signin-toast');
+  if (toast) {
+    toast.textContent = text;
+    toast.classList.remove('hidden');
+  } else {
+    toast = document.createElement('div');
+    toast.id = 'signin-toast';
+    toast.style.position = 'fixed';
+    toast.style.bottom = '20px';
+    toast.style.left = '50%';
+    toast.style.transform = 'translateX(-50%)';
+    toast.style.background = 'rgba(0,0,0,0.85)';
+    toast.style.color = '#fff';
+    toast.style.padding = '0.6rem 1rem';
+    toast.style.borderRadius = '6px';
+    toast.style.zIndex = 9999;
+    toast.textContent = text;
+    document.body.appendChild(toast);
+  }
+  // auto-hide after 3s
+  setTimeout(() => { toast.classList.add('hidden'); }, 3000);
+}
+
+function preventSignInPrompt(e) {
+  e.preventDefault();
+  // simple prompt: guide user to sign-in area
+  // you can replace this with a nicer modal or scroll-to header
+  const userArea = document.getElementById('userArea');
+  if (userArea) {
+    userArea.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+  // Optionally show a temporary tooltip or toast
+}
+
+// initial application (some pages render cards after load; delay safe)
+document.addEventListener('DOMContentLoaded', () => {
+  // initial attempt
+  setTimeout(applyAccessLimits, 300);
+  // ensure re-apply after 1s in case render is async
+  setTimeout(applyAccessLimits, 1000);
+});
+
+// re-apply when sign-in state changes
+window.addEventListener('g_user_signed_in', applyAccessLimits);
+window.addEventListener('g_user_signed_out', applyAccessLimits);
 
 async function init() {
   try {

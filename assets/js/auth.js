@@ -1,6 +1,6 @@
 // Minimal Google Identity Services integration (client-only).
 // Replace CLIENT_ID with your OAuth client ID from Google Cloud Console.
-const CLIENT_ID = 'REPLACE_WITH_YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com';
+const CLIENT_ID = '77470803232-pgv8nqdfelk2227fj4ciflls3gb12mg1.apps.googleusercontent.com';
 
 function decodeJwtResponse(token) {
   const base64Url = token.split('.')[1] || '';
