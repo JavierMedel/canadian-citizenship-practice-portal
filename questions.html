@@ -11,6 +11,9 @@
       <div class="container">
         <h1>Canadian Citizenship Practice Portal</h1>
         <a class="link-back" href="/">← Back to all tests</a>
+
+        <!-- user area for Google Sign-In / profile -->
+        <div id="userArea" class="user-area" aria-live="polite"></div>
       </div>
     </header>
 
@@ -52,6 +55,12 @@
         <div id="questionSource" class="muted" style="float:right; font-size:.9rem;">Source: —</div>
       </div>
     </footer>
+
+    <!-- Google Identity Services -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+    <!-- auth module (new) -->
+    <script type="module" src="assets/js/auth.js"></script>
 
     <script src="assets/js/questions.js" type="module"></script>
   </body>

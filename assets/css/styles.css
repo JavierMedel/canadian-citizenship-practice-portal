@@ -139,3 +139,8 @@ hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
 
 .link-back { display: inline-block; margin-top: .25rem; color: #fff; opacity: .9; text-decoration: none; }
 .link-back:hover { text-decoration: underline; }
+
+.user-area{ display:flex; align-items:center; gap:0.5rem; margin-left:auto; }
+.user-area .avatar{ width:28px; height:28px; border-radius:50%; object-fit:cover; }
+.user-area .user-name{ font-size:.95rem; color:var(--muted,#666); margin-right:.25rem; }
+.user-area .small{ padding:.25rem .5rem; font-size:.85rem; }
