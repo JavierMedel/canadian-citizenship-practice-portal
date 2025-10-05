@@ -91,6 +91,8 @@ hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
 
 .actions { display: flex; gap: 0.75rem; margin-top: 1rem; }
 .actions .btn { min-width: 100px; }
+/* push exit button to the right */
+.actions .exit-btn { margin-left: auto; }
 
 /* More breathing room between components on the quiz page */
 .question .answers { margin-top: 1rem; }

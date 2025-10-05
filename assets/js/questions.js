@@ -300,9 +300,50 @@ function showResults(state) {
   }
 }
 
+function showResumePrompt() {
+  return new Promise((resolve) => {
+    // create modal elements
+    const overlay = document.createElement('div');
+    overlay.style.position = 'fixed';
+    overlay.style.inset = '0';
+    overlay.style.background = 'rgba(0,0,0,0.4)';
+    overlay.style.display = 'flex';
+    overlay.style.alignItems = 'center';
+    overlay.style.justifyContent = 'center';
+    overlay.style.zIndex = 9999;
+
+    const box = document.createElement('div');
+    box.style.background = '#fff';
+    box.style.padding = '1rem 1.25rem';
+    box.style.borderRadius = '8px';
+    box.style.maxWidth = '520px';
+    box.style.width = '100%';
+    box.style.boxShadow = '0 8px 30px rgba(0,0,0,0.12)';
+
+    box.innerHTML = `
+      <h3 style="margin:0 0 .5rem">Resume previous attempt?</h3>
+      <p style="margin:0 0 1rem">We found a saved attempt for this test. Do you want to resume where you left off or start a fresh attempt? Starting fresh will clear previously saved answers.</p>
+      <div style="display:flex; gap:.5rem; justify-content:flex-end">
+        <button id="resumeBtn" class="btn btn--ghost" type="button">Resume</button>
+        <button id="freshBtn" class="btn" type="button">Start fresh</button>
+      </div>
+    `;
+
+    overlay.appendChild(box);
+    document.body.appendChild(overlay);
+
+    const cleanup = () => { overlay.remove(); };
+
+    box.querySelector('#resumeBtn').addEventListener('click', () => { cleanup(); resolve('resume'); });
+    box.querySelector('#freshBtn').addEventListener('click', () => { cleanup(); resolve('fresh'); });
+  });
+}
+
 async function init() {
   const { test } = parseQuery();
   const qparam = (parseQuery().question || parseQuery().q || '').toString();
+  // keep active storage key accessible to other logic
+  let activeStorageKey = null;
   if (!test) {
     // If a single question param is provided, load that single question
     if (qparam) {
@@ -344,11 +385,20 @@ async function init() {
   // attach storage key and attempt to restore
   const storageKey = storageKeyForTest(test);
   state._storageKey = storageKey;
+  // expose to early exit handler so it can clear progress if user exits
+  activeStorageKey = storageKey;
   const stored = loadProgress(storageKey);
   if (stored) {
-    // restore index, score, and remaining time when available
-    state.idx = typeof stored.idx === 'number' ? stored.idx : state.idx;
-    state.score = typeof stored.score === 'number' ? stored.score : state.score;
+    // Ask user whether to resume or start fresh
+    const choicePromise = showResumePrompt();
+    const choice = await choicePromise;
+    if (choice === 'fresh') {
+      clearProgress(storageKey);
+    } else {
+      // restore index, score, and remaining time when available
+      state.idx = typeof stored.idx === 'number' ? stored.idx : state.idx;
+      state.score = typeof stored.score === 'number' ? stored.score : state.score;
+    }
   }
   updateScore(state);
 
@@ -393,6 +443,7 @@ async function init() {
     if (state.idx >= state.total) { showResults(state); return; }
     renderQuestion(questions[state.idx], state.idx, state.total, state);
   }
+
 
   nextBtn.addEventListener('click', () => {
     state.idx += 1;
