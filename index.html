@@ -10,7 +10,10 @@
     <header class="gc-header" role="banner">
       <div class="container">
         <h1>Canadian Citizenship Practice Portal</h1>
-        <p class="subtitle">Load a test set and its questions to begin</p>
+        <a class="link-back" href="/">← Back to all tests</a>
+
+        <!-- user area for Google Sign-In / profile (added) -->
+        <div id="userArea" class="user-area" aria-live="polite"></div>
       </div>
     </header>
 
@@ -38,6 +41,13 @@
       </div>
     </footer>
 
+    <!-- Google Identity Services (optional: already included on questions.html) -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+    <!-- auth module (new) -->
+    <script type="module" src="assets/js/auth.js"></script>
+
+    <!-- existing main script -->
     <script type="module" src="assets/js/index.js"></script>
   </body>
   </html>

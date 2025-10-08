@@ -91,6 +91,8 @@ hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
 
 .actions { display: flex; gap: 0.75rem; margin-top: 1rem; }
 .actions .btn { min-width: 100px; }
+/* push exit button to the right */
+.actions .exit-btn { margin-left: auto; }
 
 /* More breathing room between components on the quiz page */
 .question .answers { margin-top: 1rem; }
@@ -139,3 +141,37 @@ hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
 
 .link-back { display: inline-block; margin-top: .25rem; color: #fff; opacity: .9; text-decoration: none; }
 .link-back:hover { text-decoration: underline; }
+
+/* header user area (avatar) */
+.user-area { display:flex; align-items:center; gap:0.5rem; margin-left:auto; }
+.user-area .avatar { width:32px; height:32px; border-radius:50%; object-fit:cover; }
+.user-area .user-name { font-size:.95rem; color:var(--muted,#666); margin-right:.25rem; }
+
+/* locked test card overlay */
+.test-card.locked { opacity:0.9; position:relative; overflow:hidden; }
+.test-card .lock-overlay {
+  position:absolute;
+  inset:0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background: rgba(255,255,255,0.85);
+  pointer-events:auto;
+  text-align:center;
+  padding:0.5rem;
+}
+.test-card .lock-inner { display:flex; flex-direction:column; align-items:center; gap:0.25rem; }
+.test-card .lock-icon { font-size:1.4rem; }
+.test-card .lock-text { font-size:.85rem; color:var(--muted,#666); }
+
+/* ensure overlay fully covers clickable area */
+.test-card.locked a { cursor: default; }
+
+/* sign-in prompt tile (appears in grid when more than 5 tests exist and user unsigned) */
+.test-card.signin-prompt { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:0.25rem; padding:.75rem; }
+.test-card.signin-prompt .prompt { font-size: .95rem; color: var(--muted); }
+.test-card.signin-prompt .prompt .cta { color: var(--primary); font-weight:700; }
+
+/* sign-in toast */
+#signin-toast { transition: opacity .25s ease; opacity: 1; }
+#signin-toast.hidden { opacity: 0; pointer-events: none; }
