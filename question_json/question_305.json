@@ -1,0 +1,15 @@
+{
+    "question_number": "305",
+    "main_question": "What is the last line of our National Anthem?",
+    "question": "What is the last line of our National Anthem?",
+    "possible_answers": [
+        "A. O Canada, our home and native land!",
+        "B. With glowing hearts we see thee rise",
+        "C. God keep our land glorious and free!",
+        "D. O Canada, we stand on guard for thee!"
+    ],
+    "answer": "D. O Canada, we stand on guard for thee!",
+    "page": "305",
+    "explanatory_sentence": "The final line of 'O Canada' is 'O Canada, we stand on guard for thee!', so option D is correct.",
+    "correct_answer": "D"
+}

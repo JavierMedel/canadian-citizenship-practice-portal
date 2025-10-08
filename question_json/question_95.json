@@ -1,0 +1,15 @@
+{
+    "question_number": "95",
+    "question": "What is the significance of hockey?",
+    "possible_answers": [
+        "A. It is the national summer sport.",
+        "B. It is the most popular spectator sport in Canada and also its national winter sport.",
+        "C. Canada won a gold medal in 2008's Olympics in this event.",
+        "D. None of these"
+    ],
+    "main_question": "What is the significance of hockey?",
+    "answer": "B. It is the most popular spectator sport in Canada and also its national winter sport.",
+    "page": "39",
+    "explanatory_sentence": "Hockey is Canada's most popular spectator sport and is considered to be the national winter sport.",
+    "correct_answer": "B"
+}

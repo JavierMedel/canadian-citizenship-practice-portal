@@ -1,0 +1,15 @@
+{
+    "question_number": "226",
+    "main_question": "Which animal is an official symbol of Canada?",
+    "question": "Which animal is an official symbol of Canada?",
+    "possible_answers": [
+        "A. The bear",
+        "B. The moose",
+        "C. The beaver",
+        "D. The snowbird"
+    ],
+    "answer": "C. The beaver",
+    "correct_answer": "C",
+    "page": "P 39",
+    "explanatory_sentence": "The beaver is an official national symbol of Canada, recognized for its historical significance in the fur trade and its role in the country's development."
+}

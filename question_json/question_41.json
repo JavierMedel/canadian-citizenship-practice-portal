@@ -1,0 +1,15 @@
+{
+    "question_number": "41",
+    "question": "What are the provinces of Central Canada?",
+    "possible_answers": [
+        "A. Ontario and Quebec",
+        "B. Ontario and Alberta",
+        "C. Quebec and New Brunswick",
+        "D. Alberta and Saskatchewan"
+    ],
+    "main_question": "What are the provinces of Central Canada?",
+    "answer": "A. Ontario and Quebec",
+    "page": "47",
+    "explanatory_sentence": "More than half the people in Canada live in cities and towns near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario, known as Central Canada and the industrial and manufacturing heartland.",
+    "correct_answer": "A"
+}

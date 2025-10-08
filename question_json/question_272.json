@@ -1,0 +1,15 @@
+{
+    "question_number": "272",
+    "question": "When was the Magna Carta signed?",
+    "main_question": "When was the Magna Carta signed?",
+    "possible_answers": [
+        "A. 1649",
+        "B. 1215",
+        "C. 1425",
+        "D. 1615"
+    ],
+    "answer": "B. 1215",
+    "page": "P 8",
+    "explanatory_sentence": "Together, these secure for Canadians an 800-year old tradition of ordered liberty, which dates back to the signing of Magna Carta in 1215 in England.",
+    "correct_answer": "B"
+}

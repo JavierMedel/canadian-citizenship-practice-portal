@@ -1,0 +1,15 @@
+{
+    "question_number": "50",
+    "question": "What should you do if you do not receive a voter information card before an election?",
+    "possible_answers": [
+        "A. Call your local municipality.",
+        "B. Turn up at your nearest polling station on election day.",
+        "C. You should assume you were not chosen to vote.",
+        "D. Contact Elections Canada."
+    ],
+    "main_question": "What should you do if you do not receive a voter information card before an election?",
+    "answer": "D. Contact Elections Canada.",
+    "page": "32",
+    "explanatory_sentence": "If you do not receive a voter information card, call your local elections office to ensure that you are on the voters’ list. If you do not have the number, call Elections Canada, in Ottawa, at 1-800-463-6868.",
+    "correct_answer": "D"
+}

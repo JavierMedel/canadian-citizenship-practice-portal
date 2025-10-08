@@ -1,0 +1,15 @@
+{
+    "question_number": "376",
+    "question": "What does the M.L.A. stand for?",
+    "possible_answers": [
+        "A. Member of Legal Aid",
+        "B. Member of the Legislative Assembly",
+        "C. Member of Land Association",
+        "D. Member of Land Aid"
+    ],
+    "main_question": "What does the M.L.A. stand for?",
+    "answer": "B. Member of the Legislative Assembly",
+    "page": "29",
+    "explanatory_sentence": "The members of the legislature are called members of the Legislative Assembly (MLAs), members of the National Assembly (MNAs), members of the Provincial Parliament (MPPs) or members of the House of Assembly (MHAs), depending on the province or territory.",
+    "correct_answer": "B"
+}

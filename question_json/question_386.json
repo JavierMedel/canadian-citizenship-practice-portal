@@ -1,0 +1,14 @@
+{
+    "question_number": "386",
+    "main_question": "What is the most popular spectator sport of Canada?",
+    "possible_answers": [
+        "A. Soccer",
+        "B. Canadian football",
+        "C. Hockey",
+        "D. Basketball"
+    ],
+    "answer": "C. Hockey",
+    "page": "39",
+    "explanatory_sentence": "Hockey is Canada's most popular spectator sport and is considered to be the national winter sport.",
+    "correct_answer": "C"
+}

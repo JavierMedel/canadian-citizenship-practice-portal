@@ -1,0 +1,15 @@
+{
+    "question_number": "49",
+    "question": "Which province is Canada's main producer of pulp and paper?",
+    "possible_answers": [
+        "A. Quebec",
+        "B. British Columbia",
+        "C. Saskatchewan",
+        "D. Ontario"
+    ],
+    "main_question": "Which province is Canada's main producer of pulp and paper?",
+    "answer": "A. Quebec",
+    "page": "47",
+    "explanatory_sentence": "Quebec is Canada's main producer of pulp and paper.",
+    "correct_answer": "A"
+}

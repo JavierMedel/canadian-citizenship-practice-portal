@@ -1,0 +1,15 @@
+{
+    "question_number": "123",
+    "question": "Why is the British North America Act important in Canadian history?",
+    "possible_answers": [
+        "A. It was agreed to by the First Nations and Inuit.",
+        "B. It was written by the British government.",
+        "C. The Aboriginal people signed the act.",
+        "D. It made Confederation legal."
+    ],
+    "main_question": "Why is the British North America Act important in Canadian history?",
+    "answer": "D. It made Confederation legal.",
+    "page": "18",
+    "explanatory_sentence": "The British Parliament passed the British North America Act in 1867. The Dominion of Canada was officially born on July 1, 1867.",
+    "correct_answer": "D"
+}

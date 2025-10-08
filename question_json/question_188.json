@@ -1,0 +1,15 @@
+{
+    "question_number": "188",
+    "question": "Which province has the largest population of Aboriginals?",
+    "possible_answers": [
+        "A. Manitoba",
+        "B. Ontario",
+        "C. Nova Scotia",
+        "D. Alberta"
+    ],
+    "main_question": "Which province has the largest population of Aboriginals?",
+    "answer": "A. Manitoba",
+    "page": "48",
+    "explanatory_sentence": "Manitoba is also an important centre of Ukrainian culture, with 14% reporting Ukrainian origins, and the largest Aboriginal population of any province, at over 15%.",
+    "correct_answer": "A"
+}

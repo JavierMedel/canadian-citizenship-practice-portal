@@ -1,0 +1,15 @@
+{
+    "question_number": "224",
+    "question": "How are Senators chosen?",
+    "possible_answers": [
+        "A. By the Premier of all provinces",
+        "B. By the Governor General of Canada",
+        "C. Appointed by the Governor General on the advice of the Prime Minister",
+        "D. Appointed by the King"
+    ],
+    "main_question": "How are Senators chosen?",
+    "answer": "C. Appointed by the Governor General on the advice of the Prime Minister",
+    "page": "28",
+    "explanatory_sentence": "Senators are appointed by the Governor General on the advice of the Prime Minister and serve until age 75.",
+    "correct_answer": "C"
+}

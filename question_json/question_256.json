@@ -1,0 +1,15 @@
+{
+    "question_number": "256",
+    "question": "What are the three parts of Parliament?",
+    "possible_answers": [
+        "A. The Queen or King, Governor General and Prime Minister",
+        "B. The Governor General, the Legislative Assembly and the Senate",
+        "C. The Queen or King, the House of Commons and the Senate",
+        "D. The House of Commons, the Legislative Assembly and the Senate"
+    ],
+    "main_question": "What are the three parts of Parliament?",
+    "answer": "C. The Queen or King, the House of Commons and the Senate",
+    "page": "28",
+    "explanatory_sentence": "Parliament has three parts: the Sovereign (Queen or King), the Senate and the House of Commons.",
+    "correct_answer": "C"
+}

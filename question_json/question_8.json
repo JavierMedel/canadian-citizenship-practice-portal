@@ -1,0 +1,14 @@
+{
+    "question_number": "8",
+    "main_question": "Which of the following are the responsibilities of provincial government?",
+    "possible_answers": [
+        "A. Education, health care, natural resources, and policing",
+        "B. National defense, health care, citizenship, and firefighting",
+        "C. Education, foreign policy, natural resources, and policing",
+        "D. National defense, foreign policy, highways, and aboriginal affairs"
+    ],
+    "answer": "A. Education, health care, natural resources, and policing",
+    "correct_answer": "A",
+    "page": "P 28",
+    "explanatory_sentence": "The provinces are responsible for municipal government, education, health, natural resources, property and civil rights, and highways."
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "275",
+    "question": "Who invented the snowmobile?",
+    "possible_answers": [
+        "A. Alexander Graham Bell",
+        "B. Joseph-Armand Bombardier",
+        "C. Sir Sandford Fleming",
+        "D. Mathew Evans and Henry Woodward"
+    ],
+    "main_question": "Who invented the snowmobile?",
+    "answer": "B. Joseph-Armand Bombardier",
+    "page": "27",
+    "explanatory_sentence": "Joseph-Armand Bombardier - invented the snowmobile, a light-weight winter vehicle.",
+    "correct_answer": "B"
+}

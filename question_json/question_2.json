@@ -1,0 +1,15 @@
+{
+    "question_number": "2",
+    "question": "Which of the following is the federal government responsible for?",
+    "main_question": "Which of the following is the federal government responsible for?",
+    "possible_answers": [
+        "A. Highways",
+        "B. Natural resources",
+        "C. Education",
+        "D. Interprovincial Trade and Communications"
+    ],
+    "answer": "D. Interprovincial Trade and Communications",
+    "page": "P 28",
+    "explanatory_sentence": "In our federal state, the federal government takes responsibility for matters of national and international concern. These include defence, foreign policy, interprovincial trade and communications, currency, navigation, criminal law and citizenship.",
+    "correct_answer": "D"
+}

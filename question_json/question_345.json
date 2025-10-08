@@ -1,0 +1,15 @@
+{
+    "question_number": "345",
+    "question": "When is Labour Day celebrated in Canada?",
+    "possible_answers": [
+        "A. The 1st of July",
+        "B. The 1st Monday of September",
+        "C. The 1st of May",
+        "D. The 3rd Monday of October"
+    ],
+    "main_question": "When is Labour Day celebrated in Canada?",
+    "answer": "B. The 1st Monday of September",
+    "page": "41",
+    "explanatory_sentence": null,
+    "correct_answer": "B"
+}

@@ -208,6 +208,6 @@ __marimo__/
 
 
 # Ignore all JSON files in question_json and test_sets folders
-/question_json/*.json
-/test_sets/*.json
+# /question_json/*.json
+# /test_sets/*.json
 

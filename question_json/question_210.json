@@ -1,0 +1,15 @@
+{
+    "question_number": "210",
+    "question": "From whom are the Acadians descended?",
+    "possible_answers": [
+        "A. Métis and Inuit",
+        "B. First Nations who began settling in what are now the Prairie provinces in 1600s",
+        "C. British colonists who began settling in what are now the Maritime provinces in 1604",
+        "D. French colonists who began settling in what are now the Maritime provinces in 1604"
+    ],
+    "main_question": "From whom are the Acadians descended?",
+    "answer": "D. French colonists who began settling in what are now the Maritime provinces in 1604",
+    "page": "11",
+    "explanatory_sentence": "The Acadians are the descendants of French colonists who began settling in what are now the Maritime provinces in 1604.",
+    "correct_answer": "D"
+}

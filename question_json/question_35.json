@@ -1,0 +1,15 @@
+{
+    "question_number": "35",
+    "main_question": "What do Canadians remember on Remembrance Day?",
+    "question": "What do Canadians remember on Remembrance Day?",
+    "possible_answers": [
+        "A. Canadian victory in World War I",
+        "B. Canadian victory in the Battle of Vimy Ridge",
+        "C. Canadian victory in World War II",
+        "D. Sacrifices made by Canadian veterans and brave soldiers in wars"
+    ],
+    "answer": "D. Sacrifices made by Canadian veterans and brave soldiers in wars",
+    "page": "P 22",
+    "explanatory_sentence": "Canadians wear the red poppy and observe a moment of silence at the 11th hour of the 11th day of the 11th month to honour the sacrifices of over a million brave men and women who have served, and the 110,000 who have given their lives.",
+    "correct_answer": "D"
+}

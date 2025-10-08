@@ -1,0 +1,15 @@
+{
+    "question_number": "48",
+    "question": "What does the term \"responsible government\" mean?",
+    "possible_answers": [
+        "A. Each person in each electoral district is responsible for voting.",
+        "B. The Governor General is responsible for the actions of the Prime Minister.",
+        "C. The Ministers of the Crown must have the support of a majority of the elected representatives in order to govern.",
+        "D. All Canadians are responsible for each other."
+    ],
+    "main_question": "What does the term \"responsible government\" mean?",
+    "answer": "C. The Ministers of the Crown must have the support of a majority of the elected representatives in order to govern.",
+    "page": "P17, 18",
+    "explanatory_sentence": "This meant that the ministers of the Crown must have the support of a majority of the elected representatives in order to govern.",
+    "correct_answer": "C"
+}

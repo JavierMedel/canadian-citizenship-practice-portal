@@ -1,0 +1,15 @@
+{
+    "question_number": "33",
+    "question": "With which words does the Canadian Charter of Rights and Freedoms begin?",
+    "possible_answers": [
+        "A. \"Canadian citizens have rights and responsibilities\"",
+        "B. \"O Canada! Our home and native land!\"",
+        "C. \"Canada is a free country and home of the brave\"",
+        "D. \"Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law\""
+    ],
+    "main_question": "With which words does the Canadian Charter of Rights and Freedoms begin?",
+    "answer": "D. \"Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law\"",
+    "page": "P 8",
+    "explanatory_sentence": "The Constitution of Canada was amended in 1982 to entrench the Canadian Charter of Rights and Freedoms, which begins with the words, \"Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.\"",
+    "correct_answer": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "223",
+    "main_question": "What does M.P.P stand for?",
+    "question": "What does M.P.P stand for?",
+    "possible_answers": [
+        "A. Member of the Provincial Parachute",
+        "B. Member of the Provincial Police",
+        "C. Member of the Provincial Parliament",
+        "D. Member of the Provincial Publication"
+    ],
+    "answer": "C. Member of the Provincial Parliament",
+    "correct_answer": "C",
+    "page": "29",
+    "explanatory_sentence": "The members of the legislature are called members of the Legislative Assembly (MLAs), members of the National Assembly (MNAs), members of the Provincial Parliament (MPPs) or members of the House of Assembly (MHAs), depending on the province or territory."
+}

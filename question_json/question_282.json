@@ -1,0 +1,14 @@
+{
+    "question_number": "282",
+    "main_question": "Federal elections are carried out to elect:",
+    "possible_answers": [
+        "A. the Premier",
+        "B. the Prime Minister",
+        "C. the Member of Parliament",
+        "D. the Senator"
+    ],
+    "answer": "C. the Member of Parliament",
+    "correct_answer": "C",
+    "page": "P 30",
+    "explanatory_sentence": "The citizens in each electoral district elect one MP who sits in the House of Commons to represent them, as well as all Canadians."
+}

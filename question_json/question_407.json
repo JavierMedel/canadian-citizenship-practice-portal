@@ -1,0 +1,15 @@
+{
+    "question_number": "407",
+    "question": "Who was the first female Member of Parliament?",
+    "possible_answers": [
+        "A. Agnes Macphail",
+        "B. Mary Ann Shadd Cary",
+        "C. Laura Secord",
+        "D. Alice Munro"
+    ],
+    "main_question": "Who was the first female Member of Parliament?",
+    "answer": "A. Agnes Macphail",
+    "page": "21",
+    "explanatory_sentence": "In 1921 Agnes Macphail, a farmer and teacher, became the first woman MP.",
+    "correct_answer": "A"
+}

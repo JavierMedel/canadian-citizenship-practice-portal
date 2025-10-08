@@ -1,0 +1,15 @@
+{
+    "question_number": "77",
+    "main_question": "What level of government passes \"by-laws\"?",
+    "question": "What level of government passes \"by-laws\"?",
+    "possible_answers": [
+        "A. Provincial",
+        "B. Municipal or local government",
+        "C. Federal",
+        "D. Senators"
+    ],
+    "answer": "B. Municipal or local government",
+    "correct_answer": "B",
+    "page": "P 33",
+    "explanatory_sentence": "Local or municipal government plays an important role in the lives of our citizens. Municipal governments usually have a council that passes laws called \"by-laws\" that affect only the local community."
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "333",
+    "question": "What is significant about the number of people living in Ontario?",
+    "possible_answers": [
+        "A. They make up two-thirds of all Canadians.",
+        "B. They make up three-fourths of all Canadians.",
+        "C. They make up one-third of all Canadians.",
+        "D. They make up half of all Canadians."
+    ],
+    "main_question": "What is significant about the number of people living in Ontario?",
+    "answer": "C. They make up one-third of all Canadians.",
+    "page": "48",
+    "explanatory_sentence": "At more than 12 million, the people of Ontario make up more than one-third of Canadians.",
+    "correct_answer": "C"
+}

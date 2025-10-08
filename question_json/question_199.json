@@ -1,0 +1,14 @@
+{
+    "question_number": "199",
+    "main_question": "What does the Register of Electors contain?",
+    "possible_answers": [
+        "A. A list of all Canadian citizens who are qualified to vote in federal elections and referendums",
+        "B. A list of people who are willing to vote in elections and referendums",
+        "C. A list of people who voted for the opposition party in the previous election",
+        "D. A list of people who are not allowed to vote"
+    ],
+    "answer": "A. A list of all Canadian citizens who are qualified to vote in federal elections and referendums",
+    "page": "P 30",
+    "explanatory_sentence": "This is a permanent database of Canadian citizens 18 years of age or older who are qualified to vote in federal elections and referendums.",
+    "correct_answer": "A"
+}

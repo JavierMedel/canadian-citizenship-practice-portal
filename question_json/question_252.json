@@ -1,0 +1,15 @@
+{
+    "question_number": "252",
+    "main_question": "What does the Canadian flag look like?",
+    "question": "What does the Canadian flag look like?",
+    "possible_answers": [
+        "A. Red with a white maple leaf",
+        "B. Red and white with a bear",
+        "C. White with a red border on each end and a red maple leaf in the centre",
+        "D. Red and white with provincial emblems"
+    ],
+    "answer": "C. White with a red border on each end and a red maple leaf in the centre",
+    "page": "P 38",
+    "explanatory_sentence": "The Canadian flag is white with a red border on each end and a red maple leaf in the centre.",
+    "correct_answer": "C"
+}

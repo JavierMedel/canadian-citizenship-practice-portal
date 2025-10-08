@@ -1,0 +1,15 @@
+{
+    "question_number": "148",
+    "question": "What is Terry Fox's contribution?",
+    "possible_answers": [
+        "A. He inspired people to contribute money for cancer research.",
+        "B. He was the greatest hockey player in Canada.",
+        "C. His discovery of insulin saves millions of people's lives.",
+        "D. He was a brilliant soldier."
+    ],
+    "main_question": "What is Terry Fox's contribution?",
+    "answer": "A. He inspired people to contribute money for cancer research.",
+    "page": "26",
+    "explanatory_sentence": "In 1980, Terry Fox, a British Columbian who lost his right leg to cancer at the age of 18, began a cross-country run, the 'Marathon of Hope,' to raise money for cancer research.",
+    "correct_answer": "A"
+}

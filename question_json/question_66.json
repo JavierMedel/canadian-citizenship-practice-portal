@@ -1,0 +1,14 @@
+{
+    "question_number": "66",
+    "main_question": "Which of the following is a non-Canadian not allowed to do?",
+    "possible_answers": [
+        "A. Leave the country at will",
+        "B. Contact his or her MP",
+        "C. Take the Canada citizenship test",
+        "D. Vote in federal and provincial elections"
+    ],
+    "answer": "D. Vote in federal and provincial elections",
+    "page": "P 30",
+    "explanatory_sentence": "One of the privileges of Canadian citizenship is the right to vote.",
+    "correct_answer": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "302",
+    "question": "What is \"Due process\"?",
+    "possible_answers": [
+        "A. The government must respect all of the legal rights a person is entitled to under the law.",
+        "B. The rule of law and freedom under the law",
+        "C. The impartial manner in which the laws are administered",
+        "D. None of these"
+    ],
+    "main_question": "What is \"Due process\"?",
+    "answer": "A. The government must respect all of the legal rights a person is entitled to under the law.",
+    "page": "36",
+    "explanatory_sentence": "Due process is the principle that the government must respect all the legal rights a person is entitled to under the law.",
+    "correct_answer": "A"
+}

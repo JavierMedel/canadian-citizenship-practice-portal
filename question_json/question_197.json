@@ -1,0 +1,15 @@
+{
+    "question_number": "197",
+    "question": "Which of the following are the responsibilities of the federal government?",
+    "possible_answers": [
+        "A. National defense, foreign policy, international trade, and Aboriginal affairs",
+        "B. National defense, health care, international trade, and aboriginal affairs",
+        "C. Highways, policing, international trade, and criminal justice",
+        "D. Education, foreign policy, recycling programs, and aboriginal affairs"
+    ],
+    "main_question": "Which of the following are the responsibilities of the federal government?",
+    "answer": "A. National defense, foreign policy, international trade, and Aboriginal affairs",
+    "page": "28",
+    "explanatory_sentence": "In our federal state, the federal government takes responsibility for matters of national and international concern. These include defence, foreign policy, interprovincial trade and communications, currency, navigation, criminal law and citizenship.",
+    "correct_answer": "A"
+}

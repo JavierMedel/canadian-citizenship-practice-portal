@@ -1,0 +1,15 @@
+{
+    "question_number": "120",
+    "question": "Who do Members of Parliament represent?",
+    "possible_answers": [
+        "A. Everyone who lives in his or her electoral district",
+        "B. Everyone who lives in his or her neighborhood",
+        "C. Everyone who lives in his or her province",
+        "D. Everyone in Northern Canada"
+    ],
+    "main_question": "Who do Members of Parliament represent?",
+    "answer": "A. Everyone who lives in his or her electoral district",
+    "page": "30",
+    "explanatory_sentence": "An electoral district is a geographical area represented by a member of Parliament (MP).",
+    "correct_answer": "A"
+}

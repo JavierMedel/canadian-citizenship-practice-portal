@@ -1,0 +1,15 @@
+{
+    "question_number": "401",
+    "question": "Where is Canada's largest naval base located?",
+    "possible_answers": [
+        "A. Vancouver",
+        "B. Québec City",
+        "C. Halifax",
+        "D. Toronto"
+    ],
+    "main_question": "Where is Canada's largest naval base located?",
+    "answer": "C. Halifax",
+    "page": "46",
+    "explanatory_sentence": "As Canada's largest east coast port, deep-water and ice-free, the capital, Halifax, has played an important role in Atlantic trade and defence and is home to Canada's largest naval base.",
+    "correct_answer": "C"
+}

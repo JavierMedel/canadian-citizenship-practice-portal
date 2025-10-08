@@ -1,0 +1,15 @@
+{
+    "question_number": "341",
+    "question": "What is the meaning of the phrase \"the world's longest undefended border\"?",
+    "possible_answers": [
+        "A. Canada exports billions of dollars' worth of energy products to the USA.",
+        "B. Canada enjoys close relations with the United States.",
+        "C. Over three-quarters of Canadian exports are destined for the USA.",
+        "D. Millions of Canadians and Americans cross the border every year in safety."
+    ],
+    "main_question": "What is the meaning of the phrase \"the world's longest undefended border\"?",
+    "answer": "D. Millions of Canadians and Americans cross the border every year in safety.",
+    "page": "43",
+    "explanatory_sentence": "Millions of Canadians and Americans cross every year and in safety what is traditionally known as \"the world's longest undefended border.\"",
+    "correct_answer": "D"
+}

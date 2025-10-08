@@ -1,0 +1,15 @@
+{
+    "question_number": "173",
+    "question": "What is the symbol of the Canadian government?",
+    "possible_answers": [
+        "A. The Parliament",
+        "B. The Crown",
+        "C. The National Flag",
+        "D. The Snowbirds"
+    ],
+    "main_question": "What is the symbol of the Canadian government?",
+    "answer": "B. The Crown",
+    "page": "38",
+    "explanatory_sentence": "The Crown is a symbol of government, including Parliament, the legislatures, the courts, police services and the Canadian Forces.",
+    "correct_answer": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "42",
+    "main_question": "Where do the majority of Métis live in Canada?",
+    "question": "Where do the majority of Métis live in Canada?",
+    "possible_answers": [
+        "A. Not visible",
+        "B. Not visible",
+        "C. Prairie Provinces",
+        "D. Not visible"
+    ],
+    "answer": "C. Prairie Provinces",
+    "page": "42",
+    "explanatory_sentence": "Most Métis live in the Prairie Provinces (Manitoba, Saskatchewan, and Alberta) due to historical settlement patterns associated with the fur trade and the Red River community.",
+    "correct_answer": "C"
+}

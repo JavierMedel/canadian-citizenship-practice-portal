@@ -1,0 +1,15 @@
+{
+    "question_number": "185",
+    "question": "How many Canadians have been awarded the Victoria Cross?",
+    "possible_answers": [
+        "A. 96",
+        "B. 500",
+        "C. 2",
+        "D. 1222"
+    ],
+    "main_question": "How many Canadians have been awarded the Victoria Cross?",
+    "answer": "A. 96",
+    "page": "41",
+    "explanatory_sentence": "The Victoria Cross (V.C.) is the highest honour available to Canadians and is awarded for the most conspicuous bravery, a daring or pre-eminent act of valour or self-sacrifice, or extreme devotion to duty in the presence of the enemy. The V.C. has been awarded to 96 Canadians since 1854.",
+    "correct_answer": "A"
+}

@@ -1,0 +1,14 @@
+{
+    "question_number": "140",
+    "main_question": "Which province has the most valuable forest industry in Canada?",
+    "possible_answers": [
+        "A. Ontario",
+        "B. Alberta",
+        "C. Québec",
+        "D. British Columbia"
+    ],
+    "answer": "D. British Columbia",
+    "page": "P 49",
+    "explanatory_sentence": "About one-half of all the goods produced in B.C. are forestry products, including lumber, newsprint, and pulp and paper products - the most valuable forestry industry in Canada.",
+    "correct_answer": "D"
+}

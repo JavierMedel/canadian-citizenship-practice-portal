@@ -1,0 +1,15 @@
+{
+    "question_number": "263",
+    "question": "Which territory shares a border with another country?",
+    "main_question": "Which territory shares a border with another country?",
+    "possible_answers": [
+        "A. British Columbia",
+        "B. Alberta",
+        "C. Northwest Territories",
+        "D. Yukon Territory"
+    ],
+    "answer": "D. Yukon Territory",
+    "page": "P 50",
+    "explanatory_sentence": "The White Pass and Yukon Railway opened from Skagway in neighbouring Alaska to the territorial capital, Whitehorse, in 1900 and provides a spectacular tourist excursion across precipitous passes and bridges.",
+    "correct_answer": "D"
+}

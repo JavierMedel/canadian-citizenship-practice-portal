@@ -1,0 +1,15 @@
+{
+    "question_number": "297",
+    "question": "Which sport has the greatest number of registered players in Canada?",
+    "possible_answers": [
+        "A. Lacrosse",
+        "B. Soccer",
+        "C. Curling",
+        "D. Basketball"
+    ],
+    "main_question": "Which sport has the greatest number of registered players in Canada?",
+    "answer": "B. Soccer",
+    "page": "39",
+    "explanatory_sentence": "Soccer has the most registered players of any game in Canada.",
+    "correct_answer": "B"
+}

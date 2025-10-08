@@ -1,0 +1,15 @@
+{
+    "question_number": "72",
+    "question": "What happened at the Battle of the Plains of Abraham?",
+    "possible_answers": [
+        "A. The Voyagers battled with the British for fur trading rights.",
+        "B. Americans fought the United Empire Loyalists during the American Revolution.",
+        "C. The British defeated the French marking the end of France’s empire in America.",
+        "D. The French defeated the British in a battle for Quebec."
+    ],
+    "main_question": "What happened at the Battle of the Plains of Abraham?",
+    "answer": "C. The British defeated the French marking the end of France’s empire in America.",
+    "page": "15",
+    "explanatory_sentence": "In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City — marking the end of France’s empire in America.",
+    "correct_answer": "C"
+}

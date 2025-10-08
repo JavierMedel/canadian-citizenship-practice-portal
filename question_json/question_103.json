@@ -1,0 +1,15 @@
+{
+    "question_number": "103",
+    "main_question": "If the government loses a confidence vote in the assembly, it must ________.",
+    "question": "If the government loses a confidence vote in the assembly, it must ________.",
+    "possible_answers": [
+        "A. call an election",
+        "B. request a dissolution",
+        "C. remain in office",
+        "D. resign"
+    ],
+    "answer": "D. resign",
+    "page": "103",
+    "explanatory_sentence": "Losing a confidence vote means the government no longer has the assembly's support, so it must resign.",
+    "correct_answer": "D"
+}

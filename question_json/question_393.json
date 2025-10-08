@@ -1,0 +1,15 @@
+{
+    "question_number": "393",
+    "question": "Which of the following statements is true regarding Canada’s membership in international organizations?",
+    "possible_answers": [
+        "A. Canada is a founding member of the United Nations but not of NATO.",
+        "B. Canada is a founding member of NATO but not of the United Nations.",
+        "C. Canada is a founding member of both the United Nations and NATO.",
+        "D. Canada is not a founding member of either the United Nations or NATO."
+    ],
+    "main_question": "Which of the following statements is true regarding Canada’s membership in international organizations?",
+    "answer": "C. Canada is a founding member of both the United Nations and NATO.",
+    "page": "24",
+    "explanatory_sentence": "Canada joined with other democratic countries of the West to form the North Atlantic Treaty Organization (NATO), a military alliance, and with the United States in the North American Aerospace Defence Command (NORAD). Canada joined international organizations such as the United Nations (UN).",
+    "correct_answer": "C"
+}

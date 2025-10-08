@@ -1,0 +1,15 @@
+{
+    "question_number": "104",
+    "main_question": "Which province was the first to grant voting rights to women?",
+    "question": "Which province was the first to grant voting rights to women?",
+    "possible_answers": [
+        "A. (not shown)",
+        "B. (not shown)",
+        "C. (not shown)",
+        "D. Manitoba"
+    ],
+    "answer": "D. Manitoba",
+    "page": "104",
+    "explanatory_sentence": "Manitoba was the first province to grant women the provincial vote in 1916, becoming the earliest Canadian jurisdiction to do so and prompting other provinces to follow.",
+    "correct_answer": "D"
+}

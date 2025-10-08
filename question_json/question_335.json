@@ -1,0 +1,15 @@
+{
+    "question_number": "335",
+    "question": "Which province has a long history of coal mining, forestry, and agriculture?",
+    "possible_answers": [
+        "A. Nova Scotia",
+        "B. New Brunswick",
+        "C. Prince Edward Island",
+        "D. Ontario"
+    ],
+    "main_question": "Which province has a long history of coal mining, forestry, and agriculture?",
+    "answer": "A. Nova Scotia",
+    "page": "46",
+    "explanatory_sentence": "Nova Scotia has a long history of coal mining, forestry and agriculture. Today there is also off-shore oil and gas exploration.",
+    "correct_answer": "A"
+}

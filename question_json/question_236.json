@@ -1,0 +1,15 @@
+{
+    "question_number": "236",
+    "question": "From where does the name \"Canada\" come?",
+    "possible_answers": [
+        "A. From the Inuit word \"Kanata\" meaning nations",
+        "B. From \"Kanata\", the First Nations word for village",
+        "C. From the Inuit word meaning home",
+        "D. From the First Nations word meaning land"
+    ],
+    "main_question": "From where does the name \"Canada\" come?",
+    "answer": "B. From \"Kanata\", the First Nations word for village",
+    "page": "14",
+    "explanatory_sentence": "Cartier heard two captured guides speak the Iroquoian word kanata, meaning \"village.\"",
+    "correct_answer": "B"
+}

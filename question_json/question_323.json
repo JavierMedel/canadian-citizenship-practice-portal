@@ -1,0 +1,15 @@
+{
+    "question_number": "323",
+    "question": "The largest religious affiliation in Canada is:",
+    "possible_answers": [
+        "A. Roman Catholic",
+        "B. Hindu",
+        "C. Muslim",
+        "D. Jewish"
+    ],
+    "main_question": "The largest religious affiliation in Canada is:",
+    "answer": "A. Roman Catholic",
+    "page": "13",
+    "explanatory_sentence": "The largest religious affiliation is Catholic, followed by various Protestant churches.",
+    "correct_answer": "A"
+}

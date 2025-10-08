@@ -1,0 +1,15 @@
+{
+    "question_number": "47",
+    "question": "Who are the Aboriginal peoples in Canada?",
+    "possible_answers": [
+        "A. The first settlers of Newfoundland",
+        "B. The first European settlers to arrive in Canada",
+        "C. The descendants of the first Australian immigrants to Canada",
+        "D. The first inhabitants of Canada"
+    ],
+    "main_question": "Who are the Aboriginal peoples in Canada?",
+    "answer": "D. The first inhabitants of Canada",
+    "page": "10",
+    "explanatory_sentence": "The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago.",
+    "correct_answer": "D"
+}

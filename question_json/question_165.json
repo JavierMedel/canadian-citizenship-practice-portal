@@ -1,0 +1,14 @@
+{
+    "question_number": "165",
+    "main_question": "Which is the northeastern province in Canada that has its own time zone?",
+    "possible_answers": [
+        "A. Alberta",
+        "B. Newfoundland & Labrador",
+        "C. Nova Scotia",
+        "D. Prince Edward Island"
+    ],
+    "answer": "B. Newfoundland & Labrador",
+    "page": "P 46",
+    "explanatory_sentence": "Newfoundland and Labrador is the most easterly point in North America and has its own time zone.",
+    "correct_answer": "B"
+}

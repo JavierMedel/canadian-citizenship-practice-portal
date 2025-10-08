@@ -1,0 +1,15 @@
+{
+    "question_number": "155",
+    "question": "Where do most French-speaking Canadians live?",
+    "possible_answers": [
+        "A. Nova Scotia",
+        "B. Québec",
+        "C. Ontario",
+        "D. New Brunswick"
+    ],
+    "main_question": "Where do most French-speaking Canadians live?",
+    "answer": "B. Québec",
+    "page": "47",
+    "explanatory_sentence": "Nearly eight million people live in Québec, the vast majority along or near the St. Lawrence River. More than three-quarters speak French as their first language.",
+    "correct_answer": "B"
+}

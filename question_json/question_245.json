@@ -1,0 +1,15 @@
+{
+    "question_number": "245",
+    "main_question": "How many provinces and territories are there in Canada?",
+    "question": "How many provinces and territories are there in Canada?",
+    "possible_answers": [
+        "A. Eight provinces and three territories",
+        "B. Ten provinces and two territories",
+        "C. Nine provinces and two territories",
+        "D. Ten provinces and three territories"
+    ],
+    "answer": "D. Ten provinces and three territories",
+    "correct_answer": "D",
+    "page": "P 44",
+    "explanatory_sentence": "Canada has ten provinces and three territories."
+}

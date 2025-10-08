@@ -1,0 +1,15 @@
+{
+    "question_number": "13",
+    "question": "Which province has the most bilingual Canadians?",
+    "possible_answers": [
+        "A. British Columbia",
+        "B. Quebec",
+        "C. Ontario",
+        "D. New Brunswick"
+    ],
+    "main_question": "Which province has the most bilingual Canadians?",
+    "answer": "B. Quebec",
+    "page": "47",
+    "explanatory_sentence": null,
+    "correct_answer": "B"
+}

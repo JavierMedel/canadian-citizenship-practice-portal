@@ -1,0 +1,15 @@
+{
+    "question_number": "394",
+    "question": "Who do Canadians vote for in a federal election?",
+    "possible_answers": [
+        "A. A candidate whom they want to represent them in Parliament",
+        "B. All candidates in their electoral district",
+        "C. The best speaker running the election campaign",
+        "D. Someone to become the Premier of the province"
+    ],
+    "main_question": "Who do Canadians vote for in a federal election?",
+    "answer": "A. A candidate whom they want to represent them in Parliament",
+    "page": "30",
+    "explanatory_sentence": "The citizens in each electoral district elect one MP who sits in the House of Commons to represent them, as well as all Canadians.",
+    "correct_answer": "A"
+}

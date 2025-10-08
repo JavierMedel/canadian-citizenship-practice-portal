@@ -1,0 +1,15 @@
+{
+    "question_number": "39",
+    "question": "What does it mean to say Canada is a constitutional monarchy?",
+    "possible_answers": [
+        "A. The Sovereign (Queen or King) approves bills before they become law.",
+        "B. The Sovereign (Queen or King) represents Canadians in Parliament.",
+        "C. Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution.",
+        "D. The Sovereign (Queen or King) is the lawmaker of Canada."
+    ],
+    "main_question": "What does it mean to say Canada is a constitutional monarchy?",
+    "answer": "C. Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution.",
+    "page": "29",
+    "explanatory_sentence": "As a constitutional monarchy, Canada's Head of State is a hereditary Sovereign (Queen or King), who reigns in accordance with the Constitution: the rule of law.",
+    "correct_answer": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "284",
+    "question": "What is Canada's largest city and main financial centre?",
+    "possible_answers": [
+        "A. Vancouver",
+        "B. Toronto",
+        "C. Montreal",
+        "D. Calgary"
+    ],
+    "main_question": "What is Canada's largest city and main financial centre?",
+    "answer": "B. Toronto",
+    "page": "48",
+    "explanatory_sentence": "Toronto is the largest city in Canada and the country's main financial centre.",
+    "correct_answer": "B"
+}

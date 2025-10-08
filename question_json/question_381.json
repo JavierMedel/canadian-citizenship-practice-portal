@@ -1,0 +1,15 @@
+{
+    "question_number": "381",
+    "question": "What is the final step before a bill becomes law?",
+    "possible_answers": [
+        "A. Approved by the King",
+        "B. Approved by the Prime Minister",
+        "C. Approved by the Governor General",
+        "D. Approved by a judge"
+    ],
+    "main_question": "What is the final step before a bill becomes law?",
+    "answer": "C. Approved by the Governor General",
+    "page": "29",
+    "explanatory_sentence": null,
+    "correct_answer": "C"
+}

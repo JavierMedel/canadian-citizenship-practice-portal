@@ -1,0 +1,15 @@
+{
+    "question_number": "18",
+    "question": "Where is Canada located?",
+    "possible_answers": [
+        "A. Central America",
+        "B. Europe",
+        "C. North America",
+        "D. South America"
+    ],
+    "main_question": "Where is Canada located?",
+    "answer": "C. North America",
+    "page": "10",
+    "explanatory_sentence": "Canada is known around the world as a strong and free country. Canadians are proud of their unique identity. We have inherited the oldest continuous constitutional tradition in the world. We are the only constitutional monarchy in North America.",
+    "correct_answer": "C"
+}

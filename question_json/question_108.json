@@ -1,0 +1,15 @@
+{
+    "question_number": "108",
+    "question": "Who is Canada's Head of State?",
+    "possible_answers": [
+        "A. The premier of Canada",
+        "B. A hereditary Sovereign (Queen or King)",
+        "C. The governor general",
+        "D. The Prime Minister"
+    ],
+    "main_question": "Who is Canada's Head of State?",
+    "answer": "B. A hereditary Sovereign (Queen or King)",
+    "page": "29",
+    "explanatory_sentence": "As a constitutional monarchy, Canada's head of State is a hereditary Sovereign (Queen or King), who reigns in accordance with the Constitution: the rule of law.",
+    "correct_answer": "B"
+}

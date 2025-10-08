@@ -1,0 +1,15 @@
+{
+    "question_number": "146",
+    "question": "What is the highest honor available to Canadians?",
+    "possible_answers": [
+        "A. The Queen's Medal",
+        "B. Elizabeth Cross",
+        "C. Victoria Medal",
+        "D. Victoria Cross"
+    ],
+    "main_question": "What is the highest honor available to Canadians?",
+    "answer": "D. Victoria Cross",
+    "page": "41",
+    "explanatory_sentence": "The Victoria Cross (V.C.) is the highest honour available to Canadians and is awarded for the most conspicuous bravery, a daring or pre-eminent act of valour or self-sacrifice, or extreme devotion to duty in the presence of the enemy.",
+    "correct_answer": "D"
+}

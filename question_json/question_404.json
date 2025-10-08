@@ -1,0 +1,15 @@
+{
+    "question_number": "404",
+    "question": "Julia is a descendant of French colonists in the Maritime Province. What is she called?",
+    "possible_answers": [
+        "A. Métis",
+        "B. Acadian",
+        "C. Inuit",
+        "D. Indian"
+    ],
+    "main_question": "What is she called?",
+    "answer": "B. Acadian",
+    "page": "11",
+    "explanatory_sentence": "The Acadians are the descendants of French colonists who began settling in what are now the Maritime provinces in 1604.",
+    "correct_answer": "B"
+}

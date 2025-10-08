@@ -1,0 +1,15 @@
+{
+    "question_number": "274",
+    "question": "What is \"Habeas corpus\"?",
+    "main_question": "What is \"Habeas corpus\"?",
+    "possible_answers": [
+        "A. The right to live and work anywhere in Canada",
+        "B. The right for peaceful assembly",
+        "C. The right to speak freely",
+        "D. The right to challenge unlawful detention by the state"
+    ],
+    "answer": "D. The right to challenge unlawful detention by the state",
+    "page": "8",
+    "explanatory_sentence": "Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law.",
+    "correct_answer": "D"
+}

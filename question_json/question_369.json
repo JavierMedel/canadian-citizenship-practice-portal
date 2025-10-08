@@ -1,0 +1,15 @@
+{
+    "question_number": "369",
+    "question": "How much of Canadian exports are destined for the USA?",
+    "possible_answers": [
+        "A. Over one-third",
+        "B. Over three-quarters",
+        "C. Two-thirds",
+        "D. Half"
+    ],
+    "main_question": "How much of Canadian exports are destined for the USA?",
+    "answer": "B. Over three-quarters",
+    "page": "43",
+    "explanatory_sentence": "Over three-quarters of Canadian exports are destined for the U.S.A.",
+    "correct_answer": "B"
+}

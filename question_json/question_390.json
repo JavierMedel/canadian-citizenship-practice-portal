@@ -1,0 +1,15 @@
+{
+    "question_number": "390",
+    "question": "When must federal elections be held?",
+    "possible_answers": [
+        "A. Whenever the Prime Minister calls the election",
+        "B. About every 4 years",
+        "C. When the MPs want a new Prime Minister",
+        "D. On the third Monday in October every four years following the most recent general election"
+    ],
+    "main_question": "When must federal elections be held?",
+    "answer": "D. On the third Monday in October every four years following the most recent general election",
+    "page": "30",
+    "explanatory_sentence": "Under legislation passed by Parliament, federal elections must be held on the third Monday in October every four years following the most recent general election.",
+    "correct_answer": "D"
+}

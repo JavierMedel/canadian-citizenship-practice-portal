@@ -1,0 +1,15 @@
+{
+    "question_number": "36",
+    "question": "Why was the Canadian Pacific Railway built?",
+    "possible_answers": [
+        "A. The railway made it possible for immigrants to settle in Central Canada.",
+        "B. British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the West Coast.",
+        "C. To provide a spectacular tourist excursion across precipitous passes and bridges",
+        "D. So British Columbia could handle the trade of goods worth billions of dollars all around the world."
+    ],
+    "main_question": "Why was the Canadian Pacific Railway built?",
+    "answer": "B. British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the West Coast.",
+    "page": "20",
+    "explanatory_sentence": "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the West Coast. On November 7, 1885, a powerful symbol of unity was completed when Donald Smith (Lord Strathcona), the Scottish-born director of the Canadian Pacific Railway (CPR), drove the last spike.",
+    "correct_answer": "B"
+}

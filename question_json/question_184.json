@@ -1,0 +1,15 @@
+{
+    "question_number": "184",
+    "question": "How many Canadians were killed in World War I, from 1914-1918?",
+    "possible_answers": [
+        "A. 60,000",
+        "B. 170,000",
+        "C. 200,000",
+        "D. 70,000"
+    ],
+    "main_question": "How many Canadians were killed in World War I, from 1914-1918?",
+    "answer": "A. 60,000",
+    "page": "21",
+    "explanatory_sentence": "With Germany and Austria's surrender, the war ended in the Armistice on November 11, 1918. In total 60,000 Canadians were killed and 170,000 wounded.",
+    "correct_answer": "A"
+}

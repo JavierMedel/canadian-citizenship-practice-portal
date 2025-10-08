@@ -1,0 +1,15 @@
+{
+    "question_number": "138",
+    "question": "Which group of Aboriginal peoples has the largest population in Canada?",
+    "possible_answers": [
+        "A. Acadians",
+        "B. First Nations",
+        "C. Indigenous peoples",
+        "D. Métis"
+    ],
+    "main_question": "Which group of Aboriginal peoples has the largest population in Canada?",
+    "answer": "B. First Nations",
+    "page": "11",
+    "explanatory_sentence": "About 65% of the Aboriginal people are First Nations, while 30% are Métis and 4% Inuit.",
+    "correct_answer": "B"
+}

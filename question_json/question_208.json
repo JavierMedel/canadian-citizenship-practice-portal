@@ -1,0 +1,15 @@
+{
+    "question_number": "208",
+    "question": "To what ocean is Newfoundland closest?",
+    "possible_answers": [
+        "A. Atlantic",
+        "B. Pacific",
+        "C. Labrador Sea",
+        "D. Arctic"
+    ],
+    "main_question": "To what ocean is Newfoundland closest?",
+    "answer": "A. Atlantic",
+    "page": "46",
+    "explanatory_sentence": null,
+    "correct_answer": "A"
+}

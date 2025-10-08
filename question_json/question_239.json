@@ -1,0 +1,15 @@
+{
+    "question_number": "239",
+    "main_question": "What are the Prairie provinces?",
+    "question": "What are the Prairie provinces?",
+    "possible_answers": [
+        "A. Saskatchewan and Manitoba",
+        "B. Alberta, Manitoba and British Columbia",
+        "C. Saskatchewan, Alberta and Manitoba",
+        "D. Saskatchewan and Alberta"
+    ],
+    "answer": "C. Saskatchewan, Alberta and Manitoba",
+    "page": "P 45",
+    "explanatory_sentence": "The Prairie provinces are Saskatchewan, Alberta and Manitoba.",
+    "correct_answer": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "92",
+    "question": "Who is the greatest Canadian hockey player?",
+    "possible_answers": [
+        "A. Wayne Gretzky",
+        "B. Mark Tewksbury",
+        "C. Donovan Bailey",
+        "D. Terry Fox"
+    ],
+    "main_question": "Who is the greatest Canadian hockey player?",
+    "answer": "A. Wayne Gretzky",
+    "page": "26",
+    "explanatory_sentence": "One of the greatest hockey players of all time, Wayne Gretzky, played for the Edmonton Oilers from 1979 to 1988.",
+    "correct_answer": "A"
+}

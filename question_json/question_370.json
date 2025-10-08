@@ -1,0 +1,15 @@
+{
+    "question_number": "370",
+    "question": "Where do you go to vote?",
+    "possible_answers": [
+        "A. Polling station",
+        "B. City hall",
+        "C. Police station",
+        "D. Fire station"
+    ],
+    "main_question": "Where do you go to vote?",
+    "answer": "A. Polling station",
+    "page": "30",
+    "explanatory_sentence": "To vote either on election day or at advance polls, go to the polling station listed on your voter information card.",
+    "correct_answer": "A"
+}

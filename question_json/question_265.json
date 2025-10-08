@@ -1,0 +1,15 @@
+{
+    "question_number": "265",
+    "question": "When was the Canadian Pacific Railway finished?",
+    "possible_answers": [
+        "A. Late 1600s",
+        "B. Late 1700s",
+        "C. Late 1800s",
+        "D. Early 1700s"
+    ],
+    "main_question": "When was the Canadian Pacific Railway finished?",
+    "answer": "C. Late 1800s",
+    "page": "20",
+    "explanatory_sentence": "On November 7, 1885, a powerful symbol of unity was completed when Donald Smith (Lord Strathcona), the Scottish-born director of the Canadian Pacific Railway (CPR), drove the last spike.",
+    "correct_answer": "C"
+}

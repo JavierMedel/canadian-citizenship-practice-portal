@@ -1,0 +1,15 @@
+{
+    "question_number": "269",
+    "main_question": "Who are the Quebecers?",
+    "question": "Who are the Quebecers?",
+    "possible_answers": [
+        "A. European settlers in the 1600s",
+        "B. Descendants of the French colonists",
+        "C. Descendants of the Anglophones",
+        "D. People of Québec"
+    ],
+    "answer": "D. People of Québec",
+    "correct_answer": "D",
+    "page": "P 11",
+    "explanatory_sentence": "Québecers are the people of Québec, the vast majority French-speaking."
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "397",
+    "question": "What is an 'electoral district'?",
+    "possible_answers": [
+        "A. A geographical area where the politicians reside",
+        "B. An area where politicians work",
+        "C. A geographical area represented by a member of the House of Commons",
+        "D. The area where voting takes place in your locality"
+    ],
+    "main_question": "What is an 'electoral district'?",
+    "answer": "C. A geographical area represented by a member of the House of Commons",
+    "page": "30",
+    "explanatory_sentence": "An electoral district is a geographical area represented by a member of Parliament (MP).",
+    "correct_answer": "C"
+}

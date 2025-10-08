@@ -1,0 +1,15 @@
+{
+    "question_number": "232",
+    "question": "Jurisdiction is shared by federal government and provinces over which of the following sectors?",
+    "possible_answers": [
+        "A. Agriculture and Immigration",
+        "B. Interprovincial trade and communications",
+        "C. Defence and health",
+        "D. Natural resources"
+    ],
+    "main_question": "Jurisdiction is shared by federal government and provinces over which of the following sectors?",
+    "answer": "A. Agriculture and Immigration",
+    "page": "28",
+    "explanatory_sentence": "The federal government and the provinces share jurisdiction over agriculture and immigration.",
+    "correct_answer": "A"
+}

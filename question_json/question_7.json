@@ -1,0 +1,15 @@
+{
+    "question_number": "7",
+    "main_question": "How can a party in power be defeated in Parliament?",
+    "question": "How can a party in power be defeated in Parliament?",
+    "possible_answers": [
+        "A. If there is a revolution",
+        "B. If the King orders the party to resign",
+        "C. If a majority of the MPs vote against a major government decision",
+        "D. If a minority of the MPs vote against a major government decision"
+    ],
+    "answer": "C. If a majority of the MPs vote against a major government decision",
+    "correct_answer": "C",
+    "page": "P 31",
+    "explanatory_sentence": "If a majority of the members of the House of Commons vote against a major government decision (a matter of confidence), the party in power is defeated and the Prime Minister usually asks the Governor General to call an election."
+}

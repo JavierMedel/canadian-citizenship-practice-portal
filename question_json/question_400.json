@@ -1,0 +1,15 @@
+{
+    "question_number": "400",
+    "question": "Which province is the most easterly point in Canada?",
+    "possible_answers": [
+        "A. Prince Edward Island",
+        "B. New Brunswick",
+        "C. Nova Scotia",
+        "D. Newfoundland and Labrador"
+    ],
+    "main_question": "Which province is the most easterly point in Canada?",
+    "answer": "D. Newfoundland and Labrador",
+    "page": "46",
+    "explanatory_sentence": "Newfoundland and Labrador is the most easterly point in North America and has its own time zone.",
+    "correct_answer": "D"
+}

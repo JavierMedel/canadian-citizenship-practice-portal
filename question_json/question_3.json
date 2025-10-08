@@ -1,0 +1,14 @@
+{
+    "question_number": "3",
+    "main_question": "What was the name of the new country formed at Confederation?",
+    "possible_answers": [
+        "A. Britain",
+        "B. Canada",
+        "C. Canadian Confederation",
+        "D. Dominion of Canada"
+    ],
+    "answer": "D. Dominion of Canada",
+    "page": "P 18",
+    "explanatory_sentence": "The old Province of Canada was split into two new provinces: Ontario and Quebec, which, together with New Brunswick and Nova Scotia, formed the new country called the Dominion of Canada.",
+    "correct_answer": "D"
+}

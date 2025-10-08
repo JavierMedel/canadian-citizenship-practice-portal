@@ -1,0 +1,15 @@
+{
+    "question_number": "99",
+    "main_question": "Canada's national winter sport is:",
+    "question": "Canada's national winter sport is:",
+    "possible_answers": [
+        "A. Lacrosse",
+        "B. Curling",
+        "C. Hockey",
+        "D. Figure skating"
+    ],
+    "answer": "C. Hockey",
+    "page": "99",
+    "explanatory_sentence": "Canada officially recognizes ice hockey as its national winter sport (lacrosse is the national summer sport).",
+    "correct_answer": "C"
+}

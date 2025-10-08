@@ -1,0 +1,15 @@
+{
+    "question_number": "24",
+    "question": "What was the main advantage of the NAFTA agreement?",
+    "possible_answers": [
+        "A. Free trade among Canada, the USA, and Mexico",
+        "B. Free trade between Canada and China",
+        "C. Free trade between Canada and the UK",
+        "D. Free trade between Canada and Japan"
+    ],
+    "main_question": "What was the main advantage of the NAFTA agreement?",
+    "answer": "A. Free trade among Canada, the USA, and Mexico",
+    "page": "42",
+    "explanatory_sentence": "In 1988, Canada enacted free trade with the United States. Mexico became a partner in 1994 in the broader North American Free Trade Agreement (NAFTA), with over 444 million people and over $1 trillion in merchandise trade in 2008.",
+    "correct_answer": "A"
+}

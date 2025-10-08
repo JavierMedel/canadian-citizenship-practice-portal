@@ -1,0 +1,15 @@
+{
+    "question_number": "221",
+    "question": "You can vote in advance if:",
+    "possible_answers": [
+        "A. You are elderly.",
+        "B. You know you will not be able to vote on Election Day.",
+        "C. Sick and physically disabled",
+        "D. All of the above"
+    ],
+    "main_question": "You can vote in advance if:",
+    "answer": "D. All of the above",
+    "page": "32",
+    "explanatory_sentence": "If you cannot or do not wish to vote on election day, you can vote at the advance polls or by special ballot. The dates and location are on your voter information card.",
+    "correct_answer": "D"
+}

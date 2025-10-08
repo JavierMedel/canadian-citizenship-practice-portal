@@ -1,0 +1,14 @@
+{
+    "question_number": "166",
+    "main_question": "What is the voting procedure in Canada?",
+    "possible_answers": [
+        "A. Whichever way you like",
+        "B. Online",
+        "C. Secret Ballot",
+        "D. Open Ballot"
+    ],
+    "answer": "C. Secret Ballot",
+    "page": "P 32",
+    "explanatory_sentence": "Your vote is secret. You will be invited to go behind the screen to mark your ballot.",
+    "correct_answer": "C"
+}

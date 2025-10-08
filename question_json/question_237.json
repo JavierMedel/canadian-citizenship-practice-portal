@@ -1,0 +1,15 @@
+{
+    "question_number": "237",
+    "question": "What are the three main types of industry in Canada?",
+    "possible_answers": [
+        "A. Natural resources, manufacturing and services",
+        "B. Mining, services and manufacturing",
+        "C. Oil, tourism and manufacturing",
+        "D. Fishery, tourism and services"
+    ],
+    "main_question": "What are the three main types of industry in Canada?",
+    "answer": "A. Natural resources, manufacturing and services",
+    "page": "42",
+    "explanatory_sentence": null,
+    "correct_answer": "A"
+}

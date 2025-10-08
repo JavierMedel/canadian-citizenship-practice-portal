@@ -1,0 +1,14 @@
+{
+    "question_number": "300",
+    "main_question": "What information can be found on a voter information card?",
+    "possible_answers": [
+        "A. Confirms that your name is on the voters' list",
+        "B. States when you vote",
+        "C. States where you vote",
+        "D. All of the above"
+    ],
+    "answer": "D. All of the above",
+    "correct_answer": "D",
+    "page": "P 30",
+    "explanatory_sentence": "Once an election has been called, Elections Canada mails a voter information card to each elector whose name is in the National Register of Electors. The card lists when and where you vote and the number to call if you require an interpreter or other special services."
+}

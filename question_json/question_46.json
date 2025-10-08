@@ -1,0 +1,15 @@
+{
+    "question_number": "46",
+    "main_question": "Which was the last province to join Canada?",
+    "question": "Which was the last province to join Canada?",
+    "possible_answers": [
+        "A. Alberta",
+        "B. Prince Edward Island",
+        "C. Newfoundland",
+        "D. Manitoba"
+    ],
+    "answer": "C. Newfoundland",
+    "page": "46",
+    "explanatory_sentence": "Newfoundland (now Newfoundland and Labrador) joined Canada in 1949, making it the last province to join; Yukon is a territory, not a province.",
+    "correct_answer": "C"
+}

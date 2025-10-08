@@ -1,0 +1,15 @@
+{
+    "question_number": "353",
+    "main_question": "How are laws passed?",
+    "question": "How are laws passed?",
+    "possible_answers": [
+        "A. Signed by the Governor General",
+        "B. Read by the House of Commons three times",
+        "C. Read by the Senate three times",
+        "D. All of the above"
+    ],
+    "answer": "D. All of the above",
+    "correct_answer": "D",
+    "page": "P 29",
+    "explanatory_sentence": "Laws are passed through multiple stages — introduction, debate, committee review, votes in the House (and Senate where applicable), and final Royal Assent — so 'All of the above' is correct."
+}

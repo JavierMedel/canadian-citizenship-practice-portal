@@ -1,0 +1,15 @@
+{
+    "question_number": "161",
+    "question": "Which two provinces produce more than three-quarters of Canadian manufactured goods?",
+    "possible_answers": [
+        "A. Québec and Manitoba",
+        "B. British Columbia and Ontario",
+        "C. Ontario and Québec",
+        "D. Alberta and Ontario"
+    ],
+    "main_question": "Which two provinces produce more than three-quarters of Canadian manufactured goods?",
+    "answer": "C. Ontario and Québec",
+    "page": "47",
+    "explanatory_sentence": "Together, Ontario and Québec produce more than three-quarters of all Canadian manufactured goods.",
+    "correct_answer": "C"
+}

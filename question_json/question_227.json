@@ -1,0 +1,15 @@
+{
+    "question_number": "227",
+    "question": "What do you mark on a federal election ballot?",
+    "possible_answers": [
+        "A. A checkmark",
+        "B. An \"X\"",
+        "C. A sticker",
+        "D. A thumbprint"
+    ],
+    "main_question": "What do you mark on a federal election ballot?",
+    "answer": "B. An \"X\"",
+    "page": "32",
+    "explanatory_sentence": "Mark an \"X\" in the circle next to the name of the candidate of your choice.",
+    "correct_answer": "B"
+}

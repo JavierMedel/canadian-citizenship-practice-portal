@@ -1,0 +1,15 @@
+{
+    "question_number": "164",
+    "question": "Which Canadian province is the largest producer of oil and natural gas?",
+    "main_question": "Which Canadian province is the largest producer of oil and natural gas?",
+    "possible_answers": [
+        "A. Québec",
+        "B. Nova Scotia",
+        "C. Ontario",
+        "D. Alberta"
+    ],
+    "answer": "D. Alberta",
+    "page": "P 49",
+    "explanatory_sentence": "Alberta is the largest producer of oil and gas, and the oil sands in the north are being developed as a major energy source.",
+    "correct_answer": "D"
+}

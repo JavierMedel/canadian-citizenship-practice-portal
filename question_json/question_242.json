@@ -1,0 +1,15 @@
+{
+    "question_number": "242",
+    "question": "Which countries fought in the War of 1812?",
+    "possible_answers": [
+        "A. United Kingdom and United States of America",
+        "B. France and United Kingdom",
+        "C. Canada and United States of America",
+        "D. France, Great Britain and United States of America"
+    ],
+    "main_question": "Which countries fought in the War of 1812?",
+    "answer": "A. United Kingdom and United States of America",
+    "page": "17",
+    "explanatory_sentence": "Believing it would be easy to conquer Canada, the United States launched an invasion in June 1812. The Americans were mistaken. Canadian volunteers and First Nations, including Shawnee led by Chief Tecumseh, supported British soldiers in Canada's defence.",
+    "correct_answer": "A"
+}

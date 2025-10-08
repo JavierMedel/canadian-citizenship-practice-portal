@@ -1,0 +1,15 @@
+{
+    "question_number": "342",
+    "question": "When was the first representative assembly in Canada elected?",
+    "possible_answers": [
+        "A. 1791",
+        "B. 1758",
+        "C. 1889",
+        "D. 1609"
+    ],
+    "main_question": "When was the first representative assembly in Canada elected?",
+    "answer": "B. 1758",
+    "page": "16",
+    "explanatory_sentence": "The first representative assembly was elected in Halifax, Nova Scotia, in 1758.",
+    "correct_answer": "B"
+}

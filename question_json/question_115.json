@@ -1,0 +1,15 @@
+{
+    "question_number": "115",
+    "question": "What are the territories of Northern Canada and their capital cities?",
+    "possible_answers": [
+        "A. Yukon (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)",
+        "B. Northwest Territories (Yellowknife) and Alaska (Juneau)",
+        "C. Northwest Territories (Yellowknife)",
+        "D. Alaska (Juneau) and Yukon (Whitehorse)"
+    ],
+    "main_question": "What are the territories of Northern Canada and their capital cities?",
+    "answer": "A. Yukon (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)",
+    "page": "50, 51",
+    "explanatory_sentence": "The Northwest Territories, Nunavut and Yukon contain one-third of Canada's land mass but have a population of only 100,000.",
+    "correct_answer": "A"
+}

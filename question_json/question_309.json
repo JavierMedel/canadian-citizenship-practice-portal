@@ -1,0 +1,15 @@
+{
+    "question_number": "309",
+    "question": "Which of the following governments provides \"publicly-funded\" education?",
+    "possible_answers": [
+        "A. City government",
+        "B. Federal government",
+        "C. Provincial and territorial governments",
+        "D. None of these"
+    ],
+    "main_question": "Which of the following governments provides 'publicly-funded' education?",
+    "answer": "C. Provincial and territorial governments",
+    "page": "24",
+    "explanatory_sentence": "Publicly funded education is provided by the provinces and territories.",
+    "correct_answer": "C"
+}

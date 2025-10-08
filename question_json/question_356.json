@@ -1,0 +1,14 @@
+{
+    "question_number": "356",
+    "main_question": "Who signs the bills to make them law?",
+    "possible_answers": [
+        "A. The Police Chief",
+        "B. The Governor General",
+        "C. The Premier",
+        "D. The Prime Minister"
+    ],
+    "answer": "B. The Governor General",
+    "page": "P 29",
+    "explanatory_sentence": "The Governor General gives Royal Assent on behalf of the monarch, which is the final step that makes a bill into law.",
+    "correct_answer": "B"
+}

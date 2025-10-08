@@ -1,0 +1,15 @@
+{
+    "question_number": "117",
+    "main_question": "Which party becomes the Official Opposition?",
+    "question": "Which party becomes the Official Opposition?",
+    "possible_answers": [
+        "A. The party the Prime Minister selects",
+        "B. The party with the least votes",
+        "C. The party with the second most votes",
+        "D. Any independent candidate"
+    ],
+    "answer": "C. The party with the second most votes",
+    "page": "31",
+    "explanatory_sentence": "The opposition party with the most members of the House of Commons is the Official Opposition or Her Majesty's Loyal Opposition.",
+    "correct_answer": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "25",
+    "question": "Who are the Métis?",
+    "possible_answers": [
+        "A. The distinct Aboriginal people of Atlantic Canada",
+        "B. A people of mixed Inuit or First Nations ancestry, most of whom live on the Prairies",
+        "C. First Nations people speaking the Michif dialect",
+        "D. A distinct people of mixed Aboriginal and European ancestry"
+    ],
+    "main_question": "Who are the Métis?",
+    "answer": "D. A distinct people of mixed Aboriginal and European ancestry",
+    "page": "11",
+    "explanatory_sentence": "The Métis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces. They come from both French- and English-speaking backgrounds and speak their own dialect, Michif.",
+    "correct_answer": "D"
+}

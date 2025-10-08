@@ -1,0 +1,15 @@
+{
+    "question_number": "234",
+    "main_question": "What are the provinces of the Atlantic region?",
+    "question": "What are the provinces of the Atlantic region?",
+    "possible_answers": [
+        "A. Newfoundland, Nova Scotia, New Brunswick and Québec",
+        "B. Nova Scotia, New Brunswick, Prince Edward Island and Québec",
+        "C. Nova Scotia, Newfoundland, New Brunswick and Prince Edward Island",
+        "D. New Brunswick, Nova Scotia, Ontario and Québec"
+    ],
+    "answer": "C. Nova Scotia, Newfoundland, New Brunswick and Prince Edward Island",
+    "page": "45",
+    "explanatory_sentence": "These four provinces are collectively called the Atlantic provinces because they are located on Canada's east coast and border the Atlantic Ocean.",
+    "correct_answer": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "332",
+    "question": "Who invented the cardiac pacemaker?",
+    "possible_answers": [
+        "A. Gabriel Dumont",
+        "B. Mathew Evans and Henry Woodward",
+        "C. Dr. John A. Hopps",
+        "D. Alexander Graham Bell"
+    ],
+    "main_question": "Who invented the cardiac pacemaker?",
+    "answer": "C. Dr. John A. Hopps",
+    "page": "27",
+    "explanatory_sentence": "Dr. John A. Hopps - invented the first cardiac pacemaker, used today to save the lives of people with heart disorders.",
+    "correct_answer": "C"
+}

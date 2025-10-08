@@ -1,0 +1,15 @@
+{
+    "question_number": "344",
+    "question": "How is Canada ranked in terms of geographical size in the world?",
+    "possible_answers": [
+        "A. It is the largest country on Earth.",
+        "B. It is the second-largest country on Earth.",
+        "C. It is the third-largest country on Earth.",
+        "D. It is the seventh largest country on Earth."
+    ],
+    "main_question": "How is Canada ranked in terms of geographical size in the world?",
+    "answer": "B. It is the second-largest country on Earth.",
+    "page": "44",
+    "explanatory_sentence": "Canada is the second largest country on earth - 10 million square kilometres.",
+    "correct_answer": "B"
+}

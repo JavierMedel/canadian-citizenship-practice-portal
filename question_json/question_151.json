@@ -1,0 +1,15 @@
+{
+    "question_number": "151",
+    "question": "What is the head of the city called?",
+    "possible_answers": [
+        "A. Mayor",
+        "B. Councillor",
+        "C. Alderman",
+        "D. Premier"
+    ],
+    "main_question": "What is the head of the city called?",
+    "answer": "A. Mayor",
+    "page": "33",
+    "explanatory_sentence": "Municipal governments usually have a council that passes laws called 'by-laws' that affect only the local community. The council usually includes a mayor (or a reeve) and councillors or aldermen.",
+    "correct_answer": "A"
+}

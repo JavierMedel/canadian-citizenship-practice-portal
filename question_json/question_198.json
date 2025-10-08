@@ -1,0 +1,15 @@
+{
+    "question_number": "198",
+    "question": "In Canada's justice system, what does \"presumption of innocence\" mean?",
+    "possible_answers": [
+        "A. The Prime Minister can determine who is innocent in a court.",
+        "B. Everybody is guilty until proven innocent.",
+        "C. Everyone is innocent until proven guilty.",
+        "D. The judge can determine who is guilty without evidence."
+    ],
+    "main_question": "In Canada's justice system, what does 'presumption of innocence' mean?",
+    "answer": "C. Everyone is innocent until proven guilty.",
+    "page": "36",
+    "explanatory_sentence": "The Canadian justice system guarantees everyone due process under the law. Our judicial system is founded on the presumption of innocence in criminal matters, meaning everyone is innocent until proven guilty.",
+    "correct_answer": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "81",
+    "question": "How is a Cabinet Minister chosen?",
+    "possible_answers": [
+        "A. By the Prime Minister",
+        "B. By the King",
+        "C. By the voters",
+        "D. By the senators"
+    ],
+    "main_question": "How is a Cabinet Minister chosen?",
+    "answer": "A. By the Prime Minister",
+    "page": "28",
+    "explanatory_sentence": "In the federal government, the Prime Minister selects the Cabinet ministers and is responsible for the operations and policy of the government.",
+    "correct_answer": "A"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "53",
+    "question": "Who is the King's representative in Canada?",
+    "possible_answers": [
+        "A. The Premier",
+        "B. The Prime Minister's spouse",
+        "C. The Governor General of Canada",
+        "D. The Prime Minister"
+    ],
+    "main_question": "Who is the King's representative in Canada?",
+    "answer": "C. The Governor General of Canada",
+    "page": "29",
+    "explanatory_sentence": "The Sovereign is represented in Canada by the Governor General, who is appointed by the Sovereign on the advice of the Prime Minister, usually for five years.",
+    "correct_answer": "C"
+}

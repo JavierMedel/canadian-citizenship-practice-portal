@@ -1,0 +1,15 @@
+{
+    "question_number": "268",
+    "question": "How does a bill become a law?",
+    "possible_answers": [
+        "A. Must be approved by the Governors of each province",
+        "B. Must be approved by a majority in the House of Commons and Senate, and received royal assent",
+        "C. Must be signed by the Queen or King.",
+        "D. Must be approved by the Members of the Parliament"
+    ],
+    "main_question": "How does a bill become a law?",
+    "answer": "B. Must be approved by a majority in the House of Commons and Senate, and received royal assent",
+    "page": "29",
+    "explanatory_sentence": null,
+    "correct_answer": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "220",
+    "question": "What is the meaning of the Remembrance Day poppy?",
+    "possible_answers": [
+        "A. To remember our Sovereign, Queen Elizabeth II",
+        "B. To remember the sacrifice of Canadians who have served or died in wars up to the present day",
+        "C. To honor Prime Ministers who have died",
+        "D. To celebrate Confederation"
+    ],
+    "main_question": "What is the meaning of the Remembrance Day poppy?",
+    "answer": "B. To remember the sacrifice of Canadians who have served or died in wars up to the present day",
+    "page": "22",
+    "explanatory_sentence": "Canadians wear the red poppy and observe a moment of silence on Remembrance Day to honour the sacrifices of over a million brave men and women who have served, and the 110,000 who have given their lives.",
+    "correct_answer": "B"
+}

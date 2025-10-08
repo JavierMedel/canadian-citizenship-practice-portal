@@ -1,0 +1,15 @@
+{
+    "question_number": "389",
+    "question": "Approximately how many Canadians served in the First World War?",
+    "possible_answers": [
+        "A. About 170,000",
+        "B. About 10,000",
+        "C. More than 60,000",
+        "D. More than 600,000"
+    ],
+    "main_question": "Approximately how many Canadians served in the First World War?",
+    "answer": "D. More than 600,000",
+    "page": "21",
+    "explanatory_sentence": "More than 600,000 Canadians served in the war, most of them volunteers, out of a total population of eight million.",
+    "correct_answer": "D"
+}

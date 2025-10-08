@@ -1,0 +1,15 @@
+{
+    "question_number": "360",
+    "main_question": "Which of the following are Canada's famous writers?",
+    "question": "Which of the following are Canada's famous writers?",
+    "possible_answers": [
+        "A. Sir Ernest MacMillan and Healey Willan",
+        "B. Paul Henderson and Mark Tewksbury",
+        "C. Joy Kogawa, Michael Ondaatje, and Rohinton Mistry",
+        "D. Emily Carr and Louis-Philippe Hébert"
+    ],
+    "answer": "C. Joy Kogawa, Michael Ondaatje, and Rohinton Mistry",
+    "page": "P 25",
+    "explanatory_sentence": "Writers such as Joy Kogawa, Michael Ondaatje and Rohinton Mistry have diversified Canada's literary experience.",
+    "correct_answer": "C"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "142",
+    "question": "What do you call a law before it is passed?",
+    "possible_answers": [
+        "A. A proposed law",
+        "B. A bill",
+        "C. A new law",
+        "D. A proposal of a law"
+    ],
+    "main_question": "What do you call a law before it is passed?",
+    "answer": "B. A bill",
+    "page": "28",
+    "explanatory_sentence": "Both the House of Commons and the Senate consider and review bills (proposals for new laws). No bill can become law in Canada until it has been passed by both chambers and has received royal assent, granted by the Governor General on behalf of the Sovereign.",
+    "correct_answer": "B"
+}

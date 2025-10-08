@@ -1,0 +1,15 @@
+{
+    "question_number": "217",
+    "question": "What is a minority government?",
+    "possible_answers": [
+        "A. The party in power holds less than half of the seats in the House of Commons",
+        "B. The party in power holds less than half of the seats in the House of Commons and the Senate",
+        "C. The party in power holds at least half of the seats in the House of Commons",
+        "D. The party in power holds at least half of the seats in the Senate"
+    ],
+    "main_question": "What is a minority government?",
+    "answer": "A. The party in power holds less than half of the seats in the House of Commons",
+    "page": "31",
+    "explanatory_sentence": "If the party in power holds less than half of the seats in the House of Commons, this is called a minority government.",
+    "correct_answer": "A"
+}

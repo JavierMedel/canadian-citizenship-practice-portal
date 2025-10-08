@@ -1,0 +1,15 @@
+{
+    "question_number": "343",
+    "main_question": "Which of the following are the provinces responsible for?",
+    "question": "Which of the following are the provinces responsible for?",
+    "possible_answers": [
+        "A. Defence",
+        "B. Foreign Policy",
+        "C. Currency",
+        "D. Education"
+    ],
+    "answer": "D. Education",
+    "correct_answer": "D",
+    "page": "P 28",
+    "explanatory_sentence": "The provinces are responsible for municipal government, education, health, natural resources, property and civil rights, and highways."
+}

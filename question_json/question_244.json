@@ -1,0 +1,15 @@
+{
+    "question_number": "244",
+    "question": "Which two provinces are on the Atlantic coast of Canada?",
+    "possible_answers": [
+        "A. British Columbia and Yukon",
+        "B. Nova Scotia and New Brunswick",
+        "C. Newfoundland and British Columbia",
+        "D. Prince Edward Island and Ontario"
+    ],
+    "main_question": "Which two provinces are on the Atlantic coast of Canada?",
+    "answer": "B. Nova Scotia and New Brunswick",
+    "page": "45",
+    "explanatory_sentence": null,
+    "correct_answer": "B"
+}

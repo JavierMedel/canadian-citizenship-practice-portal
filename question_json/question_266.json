@@ -1,0 +1,15 @@
+{
+    "question_number": "266",
+    "question": "Who has the right to run as a candidate in federal elections?",
+    "possible_answers": [
+        "A. Any person who is at least 18 years or older",
+        "B. Any Canadian citizen who is at least 18 years old",
+        "C. Canadian citizens and landed immigrants",
+        "D. A Canadian citizen who is 16 years or older"
+    ],
+    "main_question": "Who has the right to run as a candidate in federal elections?",
+    "answer": "B. Any Canadian citizen who is at least 18 years old",
+    "page": "30",
+    "explanatory_sentence": "Canadian citizens who are 18 years old or older may run in a federal election. The people who run for office are called candidates.",
+    "correct_answer": "B"
+}

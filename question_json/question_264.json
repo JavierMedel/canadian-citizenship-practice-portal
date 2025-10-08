@@ -1,0 +1,15 @@
+{
+    "question_number": "264",
+    "question": "Which four provinces first formed Confederation?",
+    "possible_answers": [
+        "A. Ontario, Québec, Nova Scotia and New Brunswick",
+        "B. Ontario, Newfoundland, Québec and Nova Scotia",
+        "C. Ontario, Nova Scotia, New Brunswick and British Columbia",
+        "D. Ontario, Québec, Manitoba and Nova Scotia"
+    ],
+    "main_question": "Which four provinces first formed Confederation?",
+    "answer": "A. Ontario, Québec, Nova Scotia and New Brunswick",
+    "page": "18",
+    "explanatory_sentence": "The old Province of Canada was split into two new provinces: Ontario and Québec, which, together with New Brunswick and Nova Scotia, formed the new country called the Dominion of Canada.",
+    "correct_answer": "A"
+}

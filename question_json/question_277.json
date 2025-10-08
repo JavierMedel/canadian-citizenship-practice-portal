@@ -1,0 +1,15 @@
+{
+    "question_number": "277",
+    "question": "What are the three branches of the Canadian government?",
+    "possible_answers": [
+        "A. Executive, Senate and Judicial",
+        "B. Executive, Legislative and Monarchy",
+        "C. Executive, Police and Judicial",
+        "D. Executive, Legislative and Judicial"
+    ],
+    "main_question": "What are the three branches of the Canadian government?",
+    "answer": "D. Executive, Legislative and Judicial",
+    "page": "29",
+    "explanatory_sentence": "The interplay between the three branches of government - the Executive, Legislative and Judicial - which work together but also sometimes in creative tension, helps to secure the rights and freedoms of Canadians.",
+    "correct_answer": "D"
+}

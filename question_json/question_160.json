@@ -1,0 +1,15 @@
+{
+    "question_number": "160",
+    "question": "What does it mean for a political party to \"be in power\"?",
+    "possible_answers": [
+        "A. To gain the approval of the Queen or King",
+        "B. To have the most elected representatives",
+        "C. To generate electricity",
+        "D. To hold the nuclear button"
+    ],
+    "main_question": "What does it mean for a political party to \"be in power\"?",
+    "answer": "B. To have the most elected representatives",
+    "page": "31",
+    "explanatory_sentence": "After an election, the leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government.",
+    "correct_answer": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "379",
+    "question": "Who elects the members to the House of Commons in Ottawa, and to the provincial and territorial legislatures?",
+    "main_question": "Who elects the members to the House of Commons in Ottawa, and to the provincial and territorial legislatures?",
+    "possible_answers": [
+        "A. The Government Employees",
+        "B. The Government",
+        "C. The Prime Minister",
+        "D. The people"
+    ],
+    "answer": "D. The people",
+    "page": "P 28",
+    "explanatory_sentence": "In Canada's parliamentary democracy, the people elect members to the House of Commons in Ottawa and to the provincial and territorial legislatures.",
+    "correct_answer": "D"
+}

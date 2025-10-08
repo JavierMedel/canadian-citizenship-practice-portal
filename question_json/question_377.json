@@ -1,0 +1,15 @@
+{
+    "question_number": "377",
+    "question": "Who do provincial members of the legislative or national assemblies represent?",
+    "possible_answers": [
+        "A. Federal and provincial governments",
+        "B. Everyone who lives in the federal electoral district",
+        "C. Everyone who lives in the provincial or territorial electoral district",
+        "D. Everyone who lives in the municipal electoral district"
+    ],
+    "main_question": "Who do provincial members of the legislative or national assemblies represent?",
+    "answer": "C. Everyone who lives in the provincial or territorial electoral district",
+    "page": null,
+    "explanatory_sentence": null,
+    "correct_answer": "C"
+}

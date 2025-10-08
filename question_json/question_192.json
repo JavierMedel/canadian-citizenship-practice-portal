@@ -1,0 +1,15 @@
+{
+    "question_number": "192",
+    "question": "What three oceans border Canada?",
+    "main_question": "What three oceans border Canada?",
+    "possible_answers": [
+        "A. Hudson, Pacific, and Atlantic",
+        "B. Atlantic, Arctic, and Bering",
+        "C. Pacific, Indian, and Atlantic",
+        "D. Atlantic, Arctic, and Pacific"
+    ],
+    "answer": "D. Atlantic, Arctic, and Pacific",
+    "page": "44",
+    "explanatory_sentence": "Three oceans line Canada's frontiers: the Pacific Ocean in the west, the Atlantic Ocean in the east, and the Arctic Ocean to the north.",
+    "correct_answer": "D"
+}

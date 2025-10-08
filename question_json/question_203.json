@@ -1,0 +1,15 @@
+{
+    "question_number": "203",
+    "main_question": "What is the minimum age for voting in federal, provincial, territorial, and municipal elections?",
+    "question": "What is the minimum age for voting in federal, provincial, territorial, and municipal elections?",
+    "possible_answers": [
+        "A. 16",
+        "B. 18",
+        "C. 19",
+        "D. 21"
+    ],
+    "answer": "B. 18",
+    "correct_answer": "B",
+    "page": "203",
+    "explanatory_sentence": "In Canada, the minimum legal voting age for federal, provincial/territorial, and municipal elections is 18 years old."
+}

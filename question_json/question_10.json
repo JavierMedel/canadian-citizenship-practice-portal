@@ -1,0 +1,15 @@
+{
+    "question_number": "10",
+    "question": "Which region covers more than one-third of Canada?",
+    "possible_answers": [
+        "A. Northern Territories",
+        "B. South Region",
+        "C. North Region",
+        "D. Southern Territories"
+    ],
+    "main_question": "Which region covers more than one-third of Canada?",
+    "answer": "A. Northern Territories",
+    "page": "50",
+    "explanatory_sentence": "The Northwest Territories, Nunavut and Yukon contain one-third of Canada's land mass but have a population of only 100,000.",
+    "correct_answer": "A"
+}

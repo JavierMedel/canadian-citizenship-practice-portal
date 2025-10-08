@@ -1,0 +1,15 @@
+{
+    "question_number": "75",
+    "question": "What is a responsible government?",
+    "possible_answers": [
+        "A. The government is responsible for the well-being of its people.",
+        "B. The government must take responsibility for any act of war it decides to commit.",
+        "C. A government that is against corruption.",
+        "D. The government must resign if it loses a confidence vote in the assembly."
+    ],
+    "main_question": "What is a responsible government?",
+    "answer": "D. The government must resign if it loses a confidence vote in the assembly.",
+    "page": "18",
+    "explanatory_sentence": "This is the system that we have today: if the government loses a confidence vote in the assembly it must resign.",
+    "correct_answer": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "71",
+    "question": "What happens when the federal government loses a confidence vote?",
+    "possible_answers": [
+        "A. An election is called.",
+        "B. The official opposition party takes power.",
+        "C. The Prime Minister loses his job.",
+        "D. The Prime Minister is no longer the leader of his party."
+    ],
+    "main_question": "What happens when the federal government loses a confidence vote?",
+    "answer": "A. An election is called.",
+    "page": "31",
+    "explanatory_sentence": "When the House of Commons votes on a major issue such as the budget, this is considered a matter of confidence. If a majority of the members of the House of Commons vote against a major government decision, the party in power is defeated, which usually results in the Prime Minister asking the Governor General, on behalf of the Sovereign, to call an election.",
+    "correct_answer": "A"
+}

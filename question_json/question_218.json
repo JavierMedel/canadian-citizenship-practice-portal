@@ -1,0 +1,15 @@
+{
+    "question_number": "218",
+    "question": "Where are the Great Lakes?",
+    "possible_answers": [
+        "A. Atlantic Canada",
+        "B. Manitoba",
+        "C. Between Ontario and the United States",
+        "D. Northern Québec"
+    ],
+    "main_question": "Where are the Great Lakes?",
+    "answer": "C. Between Ontario and the United States",
+    "page": "48",
+    "explanatory_sentence": "There are five Great Lakes located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, Lake Michigan (in the U.S.A.) and Lake Superior, the largest freshwater lake in the world.",
+    "correct_answer": "C"
+}

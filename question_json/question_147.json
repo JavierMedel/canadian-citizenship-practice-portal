@@ -1,0 +1,15 @@
+{
+    "question_number": "147",
+    "question": "Which city provides important shipping and air links across the Pacific Ocean?",
+    "possible_answers": [
+        "A. Victoria",
+        "B. Calgary",
+        "C. Edmonton",
+        "D. Vancouver"
+    ],
+    "main_question": "Which city provides important shipping and air links across the Pacific Ocean?",
+    "answer": "D. Vancouver",
+    "page": "49",
+    "explanatory_sentence": "The Port of Vancouver, Canada's largest and busiest, handles billions of dollars in goods traded around the world.",
+    "correct_answer": "D"
+}

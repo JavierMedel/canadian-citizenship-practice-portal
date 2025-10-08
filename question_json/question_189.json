@@ -1,0 +1,15 @@
+{
+    "question_number": "189",
+    "question": "How large is Canada?",
+    "possible_answers": [
+        "A. About 8 million sq. kilometers",
+        "B. About 10 million sq. kilometers",
+        "C. About 11 million sq. kilometers",
+        "D. About 9 million sq. kilometers"
+    ],
+    "main_question": "How large is Canada?",
+    "answer": "B. About 10 million sq. kilometers",
+    "page": "44",
+    "explanatory_sentence": "Canada is the second largest country on earth - 10 million square kilometres.",
+    "correct_answer": "B"
+}

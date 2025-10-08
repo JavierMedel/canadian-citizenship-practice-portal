@@ -1,0 +1,15 @@
+{
+    "question_number": "112",
+    "question": "In which province are more than half of Canada's aeronautics and space industry located?",
+    "main_question": "In which province are more than half of Canada's aeronautics and space industry located?",
+    "possible_answers": [
+        "A. Saskatchewan",
+        "B. Ontario",
+        "C. Québec",
+        "D. Manitoba"
+    ],
+    "answer": "C. Québec",
+    "correct_answer": "C",
+    "page": "P 47",
+    "explanatory_sentence": "Québecers are leaders in cutting-edge industries such as pharmaceuticals and aeronautics."
+}

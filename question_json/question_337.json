@@ -1,0 +1,15 @@
+{
+    "question_number": "337",
+    "question": "If you are unable to vote on election day, how do you vote?",
+    "possible_answers": [
+        "A. Vote at advance polls",
+        "B. Forget it",
+        "C. Vote the next day after the election",
+        "D. Vote a week later"
+    ],
+    "main_question": "If you are unable to vote on election day, how do you vote?",
+    "answer": "A. Vote at advance polls",
+    "page": "32",
+    "explanatory_sentence": "If you cannot or do not wish to vote on election day, you can vote at the advance polls or by special ballot.",
+    "correct_answer": "A"
+}

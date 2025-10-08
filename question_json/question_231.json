@@ -1,0 +1,15 @@
+{
+    "question_number": "231",
+    "question": "What is the significance of the Canadian discovery of insulin?",
+    "possible_answers": [
+        "A. It saved lives of children with sickness.",
+        "B. It saved millions of lives of people with diabetes.",
+        "C. It helped the treatment of heart diseases.",
+        "D. It was an important medicine to save soldiers' life during World War II."
+    ],
+    "main_question": "What is the significance of the Canadian discovery of insulin?",
+    "answer": "B. It saved millions of lives of people with diabetes.",
+    "page": "27",
+    "explanatory_sentence": "Sir Frederick Banting of Toronto and Charles Best discovered insulin, a hormone to treat diabetes that has saved 16 million lives worldwide.",
+    "correct_answer": "B"
+}

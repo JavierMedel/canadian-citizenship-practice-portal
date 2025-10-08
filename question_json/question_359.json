@@ -1,0 +1,15 @@
+{
+    "question_number": "359",
+    "question": "What does a Member of Parliament do?",
+    "possible_answers": [
+        "A. He or she links Canadians to the federal government.",
+        "B. He or she represents the King.",
+        "C. He or she works for the Governor General.",
+        "D. He or she liaises with the municipal government."
+    ],
+    "main_question": "What does a Member of Parliament do?",
+    "answer": "A. He or she links Canadians to the federal government.",
+    "page": "30",
+    "explanatory_sentence": "The citizens in each electoral district elect one MP who sits in the House of Commons to represent them, as well as all Canadians.",
+    "correct_answer": "A"
+}

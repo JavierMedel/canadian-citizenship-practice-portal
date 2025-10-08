@@ -1,0 +1,15 @@
+{
+    "question_number": "200",
+    "question": "In the Canadian justice system, what are the roles of the courts and the police?",
+    "possible_answers": [
+        "A. The courts make laws and the police enforce them.",
+        "B. The courts enforce federal laws and the police enforce provincial laws.",
+        "C. The courts enforce laws, and the police settle disputes.",
+        "D. The courts settle disputes and the police enforce the laws."
+    ],
+    "main_question": "In the Canadian justice system, what are the roles of the courts and the police?",
+    "answer": "D. The courts settle disputes and the police enforce the laws.",
+    "page": "36",
+    "explanatory_sentence": "The courts settle disputes and the police enforce the laws.",
+    "correct_answer": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "312",
+    "question": "Who are Francophones?",
+    "possible_answers": [
+        "A. People speaking French as a first language",
+        "B. People who come from France",
+        "C. People who are learning French",
+        "D. People speaking French as a secondary language"
+    ],
+    "main_question": "Who are Francophones?",
+    "answer": "A. People speaking French as a first language",
+    "page": "11",
+    "explanatory_sentence": "Today, there are 18 million Anglophones—people who speak English as a first language—and seven million Francophones—people who speak French as their first language.",
+    "correct_answer": "A"
+}

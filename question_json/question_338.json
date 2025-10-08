@@ -1,0 +1,15 @@
+{
+    "question_number": "338",
+    "question": "What is the first line of the Canadian national anthem?",
+    "possible_answers": [
+        "A. O Canada! Our home and native land!",
+        "B. O Canada! Land of our ancestors",
+        "C. O Canada! We stand on guard for thee",
+        "D. O Canada! Glorious and free"
+    ],
+    "main_question": "What is the first line of the Canadian national anthem?",
+    "answer": "A. O Canada! Our home and native land!",
+    "page": "40",
+    "explanatory_sentence": null,
+    "correct_answer": "A"
+}

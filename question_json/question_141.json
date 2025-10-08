@@ -1,0 +1,15 @@
+{
+    "question_number": "141",
+    "main_question": "Which of the following best describes the sport of lacrosse?",
+    "question": "Which of the following best describes the sport of lacrosse?",
+    "possible_answers": [
+        "A. The official winter sport",
+        "B. The second most popular sport in Canada",
+        "C. The official summer sport",
+        "D. The most popular sport in Canada"
+    ],
+    "answer": "C. The official summer sport",
+    "page": "P 39",
+    "explanatory_sentence": "Lacrosse, an ancient sport first played by Aboriginals, is the official summer sport.",
+    "correct_answer": "C"
+}

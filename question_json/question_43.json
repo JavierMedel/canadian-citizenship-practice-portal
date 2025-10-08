@@ -1,0 +1,15 @@
+{
+    "question_number": "43",
+    "question": "Which country is Canada's largest trading partner?",
+    "possible_answers": [
+        "A. China",
+        "B. The United States of America",
+        "C. The United Kingdom",
+        "D. Mexico"
+    ],
+    "main_question": "Which country is Canada's largest trading partner?",
+    "answer": "B. The United States of America",
+    "page": "42",
+    "explanatory_sentence": "Our largest international trading partner is the United States.",
+    "correct_answer": "B"
+}

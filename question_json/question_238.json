@@ -1,0 +1,15 @@
+{
+    "question_number": "238",
+    "question": "Which country lies on Canada's southern border?",
+    "possible_answers": [
+        "A. Central America",
+        "B. Mexico",
+        "C. Michigan",
+        "D. United States of America"
+    ],
+    "main_question": "Which country lies on Canada's southern border?",
+    "answer": "D. United States of America",
+    "page": "44",
+    "explanatory_sentence": "Along the southern edge of Canada lies the Canada-United States boundary.",
+    "correct_answer": "D"
+}

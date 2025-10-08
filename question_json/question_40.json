@@ -1,0 +1,15 @@
+{
+    "question_number": "40",
+    "main_question": "Remembrance Day is celebrated on:",
+    "question": "Remembrance Day is celebrated on:",
+    "possible_answers": [
+        "A. November 1st",
+        "B. November 10th",
+        "C. November 11th",
+        "D. July 1st"
+    ],
+    "answer": "C. November 11th",
+    "page": "40",
+    "explanatory_sentence": "Remembrance Day is observed on November 11th to mark the armistice that ended World War I in 1918 and to honor military veterans and those who died in conflicts.",
+    "correct_answer": "C"
+}

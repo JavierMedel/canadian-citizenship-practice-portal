@@ -1,0 +1,15 @@
+{
+    "question_number": "257",
+    "question": "Which two are Great Lakes?",
+    "main_question": "Which two are Great Lakes?",
+    "possible_answers": [
+        "A. St. Lawrence and Superior",
+        "B. Ontario and Okanagan",
+        "C. Michigan and Okanagan",
+        "D. Huron and Erie"
+    ],
+    "answer": "D. Huron and Erie",
+    "page": "P 48",
+    "explanatory_sentence": "There are five Great Lakes located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, Lake Michigan (in the U.S.A.) and Lake Superior, the largest freshwater lake in the world.",
+    "correct_answer": "D"
+}

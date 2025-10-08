@@ -1,0 +1,15 @@
+{
+    "question_number": "45",
+    "question": "What do the initials MP stand for in Canadian politics?",
+    "possible_answers": [
+        "A. Member of Parliament",
+        "B. Minister of Parliament",
+        "C. Member of the Patriots",
+        "D. Master of the Province"
+    ],
+    "main_question": "What do the initials MP stand for in Canadian politics?",
+    "answer": "A. Member of Parliament",
+    "page": "30",
+    "explanatory_sentence": "Members of the House of Commons are also known as members of Parliament or MPs.",
+    "correct_answer": "A"
+}

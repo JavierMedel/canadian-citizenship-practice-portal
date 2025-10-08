@@ -1,0 +1,15 @@
+{
+    "question_number": "116",
+    "main_question": "What does the word \"Inuit\" mean?",
+    "question": "What does the word \"Inuit\" mean?",
+    "possible_answers": [
+        "A. \"Eskimo\" in the Inuktitut language",
+        "B. \"Home\" in English",
+        "C. \"The people\" in the Inuktitut language",
+        "D. \"The Arctic Land\" in the Inuktitut language"
+    ],
+    "answer": "C. \"The people\" in the Inuktitut language",
+    "page": "P 11",
+    "explanatory_sentence": "The inuit, which means \"the people\" in the Inuktitut language, live in small, scattered communities across the Arctic.",
+    "correct_answer": "C"
+}

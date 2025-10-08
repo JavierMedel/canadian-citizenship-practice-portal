@@ -1,0 +1,15 @@
+{
+    "question_number": "233",
+    "question": "What do you call the King's representative in the territories?",
+    "possible_answers": [
+        "A. Commissioner",
+        "B. Member of the Legislative Assembly",
+        "C. \"Sir\"",
+        "D. Lieutenant-Governor"
+    ],
+    "main_question": "What do you call the King's representative in the territories?",
+    "answer": "A. Commissioner",
+    "page": "29",
+    "explanatory_sentence": "In the three territories, the Commissioner represents the federal government and plays a ceremonial role.",
+    "correct_answer": "A"
+}

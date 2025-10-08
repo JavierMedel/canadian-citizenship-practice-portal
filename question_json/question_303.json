@@ -1,0 +1,15 @@
+{
+    "question_number": "303",
+    "main_question": "Who among the following can help you with legal problems?",
+    "question": "Who among the following can help you with legal problems?",
+    "possible_answers": [
+        "A. (not shown)",
+        "B. Lawyers",
+        "C. (not shown)",
+        "D. (not shown)"
+    ],
+    "answer": "B. Lawyers",
+    "page": "303",
+    "explanatory_sentence": "Lawyers are trained to provide legal advice and representation and can help you resolve legal problems.",
+    "correct_answer": "B"
+}

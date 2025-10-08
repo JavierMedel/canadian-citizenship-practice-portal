@@ -1,0 +1,15 @@
+{
+    "question_number": "59",
+    "question": "If you cannot pay for a lawyer, how can you get legal help?",
+    "possible_answers": [
+        "A. Borrow money from the government and pay for the lawyer.",
+        "B. Go to legal aid services in most communities.",
+        "C. Apply for financial aid from the government to pay for legal fees.",
+        "D. Do not go to a court."
+    ],
+    "main_question": "If you cannot pay for a lawyer, how can you get legal help?",
+    "answer": "B. Go to legal aid services in most communities.",
+    "page": "37",
+    "explanatory_sentence": "Lawyers can help you with legal problems and act for you in court. If you cannot pay for a lawyer, in most communities there are legal aid services available free of charge or at a low cost.",
+    "correct_answer": "B"
+}

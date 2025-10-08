@@ -1,0 +1,15 @@
+{
+    "question_number": "170",
+    "main_question": "How long is the Lieutenant Governor appointed for?",
+    "question": "How long is the Lieutenant Governor appointed for?",
+    "possible_answers": [
+        "A. 3 years",
+        "B. 4 years",
+        "C. 5 years",
+        "D. 6 years"
+    ],
+    "answer": "C. 5 years",
+    "page": "P 29",
+    "explanatory_sentence": "In each of the ten provinces, the Sovereign is represented by the Lieutenant Governor, who is appointed by the Governor General on the advice of the Prime Minister, also normally for five years.",
+    "correct_answer": "C"
+}

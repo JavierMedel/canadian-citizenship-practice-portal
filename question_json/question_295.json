@@ -1,0 +1,15 @@
+{
+    "question_number": "295",
+    "question": "Who represents an electoral district?",
+    "main_question": "Who represents an electoral district?",
+    "possible_answers": [
+        "A. The Commissioner",
+        "B. The Governor General",
+        "C. The Lieutenant Governor",
+        "D. A Member of Parliament"
+    ],
+    "answer": "D. A Member of Parliament",
+    "page": "P 30",
+    "explanatory_sentence": "An electoral district is a geographical area represented by a member of Parliament (MP).",
+    "correct_answer": "D"
+}

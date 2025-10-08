@@ -1,0 +1,15 @@
+{
+    "question_number": "128",
+    "main_question": "Which one is Canada's best-known symbol and national police force?",
+    "question": "Which one is Canada's best-known symbol and national police force?",
+    "possible_answers": [
+        "A. RMCP",
+        "B. CIA",
+        "C. Canadian police",
+        "D. RCMP"
+    ],
+    "answer": "D. RCMP",
+    "page": "P 19",
+    "explanatory_sentence": "Today, the Royal Canadian Mounted Police (RCMP or \"the Mounties\") are the national police force and one of Canada's best-known symbols.",
+    "correct_answer": "D"
+}

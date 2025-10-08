@@ -1,0 +1,15 @@
+{
+    "question_number": "17",
+    "question": "The two official languages of Canada are:",
+    "possible_answers": [
+        "A. Inuktitut and English",
+        "B. French and Inuktitut",
+        "C. English and French",
+        "D. Mandarin and English"
+    ],
+    "main_question": "The two official languages of Canada are:",
+    "answer": "C. English and French",
+    "page": "39",
+    "explanatory_sentence": "English and French are the two official languages and are important symbols of identity.",
+    "correct_answer": "C"
+}

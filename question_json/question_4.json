@@ -1,0 +1,14 @@
+{
+    "question_number": "4",
+    "main_question": "Where do more than half of the people in Canada live?",
+    "possible_answers": [
+        "A. Coastal Pacific",
+        "B. Atlantic Canada",
+        "C. Prairies",
+        "D. Central Canada"
+    ],
+    "answer": "D. Central Canada",
+    "page": "P 47",
+    "explanatory_sentence": "More than half the people in Canada live in cities and towns near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario, known as Central Canada and the industrial and manufacturing heartland.",
+    "correct_answer": "D"
+}

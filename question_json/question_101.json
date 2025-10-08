@@ -1,0 +1,15 @@
+{
+    "question_number": "101",
+    "question": "What are the main functions of the Cabinet?",
+    "possible_answers": [
+        "A. Natural resources",
+        "B. Navigation",
+        "C. To prepare the budget and propose new laws to be implemented",
+        "D. Defence"
+    ],
+    "main_question": "What are the main functions of the Cabinet?",
+    "answer": "C. To prepare the budget and propose new laws to be implemented",
+    "page": "31",
+    "explanatory_sentence": "The Prime Minister and the Cabinet ministers are called the Cabinet and they make important decisions about how the country is governed. They prepare the budget and propose most new laws.",
+    "correct_answer": "C"
+}

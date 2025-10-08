@@ -1,0 +1,15 @@
+{
+    "question_number": "181",
+    "question": "What do we need to bring with us for voting?",
+    "possible_answers": [
+        "A. Voter information card, voter’s identity, and address proof",
+        "B. Credit card",
+        "C. Ballot Paper",
+        "D. None of these"
+    ],
+    "main_question": "What do we need to bring with us for voting?",
+    "answer": "A. Voter information card, voter’s identity, and address proof",
+    "page": "32",
+    "explanatory_sentence": "Bring this card and proof of your identity and address to the polling station.",
+    "correct_answer": "A"
+}

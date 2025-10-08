@@ -1,0 +1,15 @@
+{
+    "question_number": "251",
+    "question": "Which of the following are the responsibilities of local government?",
+    "possible_answers": [
+        "A. Education, foreign policy and transportation.",
+        "B. Health care, natural resources and transportation.",
+        "C. National defence, health care and transportation.",
+        "D. Social and community Health, snow removal and transportation."
+    ],
+    "main_question": "Which of the following are the responsibilities of local government?",
+    "answer": "D. Social and community Health, snow removal and transportation.",
+    "page": "33",
+    "explanatory_sentence": "Municipalities are normally responsible for urban or regional planning, streets and roads, sanitation (such as garbage removal), snow removal, firefighting, ambulance and other emergency services, recreation facilities, public transit and some local health and social services.",
+    "correct_answer": "D"
+}

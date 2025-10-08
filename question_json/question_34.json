@@ -1,0 +1,15 @@
+{
+    "question_number": "34",
+    "main_question": "Which of the following is NOT a responsibility of Canadian citizens?",
+    "question": "Which of the following is NOT a responsibility of Canadian citizens?",
+    "possible_answers": [
+        "A. Learning to speak both official languages",
+        "B. Voting in elections",
+        "C. Obeying the law",
+        "D. Taking responsibility for oneself and one's family"
+    ],
+    "answer": "A. Learning to speak both official languages",
+    "page": "P 9",
+    "explanatory_sentence": "Learning to speak both official languages is not a legal responsibility of Canadian citizens; it is encouraged but not required under Canadian law.",
+    "correct_answer": "A"
+}

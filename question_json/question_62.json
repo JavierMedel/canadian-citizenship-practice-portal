@@ -1,0 +1,15 @@
+{
+    "question_number": "62",
+    "question": "Who discovered insulin?",
+    "possible_answers": [
+        "A. Dr. Wilder Penfield",
+        "B. Matthew Evans and Henry Woodward",
+        "C. Sir Frederick Banting and Charles Best",
+        "D. Dr. John A. Hopps"
+    ],
+    "main_question": "Who discovered insulin?",
+    "answer": "C. Sir Frederick Banting and Charles Best",
+    "page": "27",
+    "explanatory_sentence": "Sir Frederick Banting of Toronto and Charles Best discovered insulin, a hormone to treat diabetes that has saved 16 million lives worldwide.",
+    "correct_answer": "C"
+}

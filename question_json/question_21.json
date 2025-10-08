@@ -1,0 +1,15 @@
+{
+    "question_number": "21",
+    "main_question": "How are Members of Parliament chosen?",
+    "question": "How are Members of Parliament chosen?",
+    "possible_answers": [
+        "A. Elected by senators",
+        "B. Elected by the Prime Minister",
+        "C. Chosen by the King",
+        "D. Elected by Canadian citizens"
+    ],
+    "answer": "D. Elected by Canadian citizens",
+    "correct_answer": "D",
+    "page": "P 30",
+    "explanatory_sentence": "The citizens in each electoral district elect one MP who sits in the House of Commons to represent them, as well as all Canadians."
+}

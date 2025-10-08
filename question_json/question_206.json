@@ -1,0 +1,15 @@
+{
+    "question_number": "206",
+    "question": "Which three rights are included in the Canadian Charter of Rights and Freedoms?",
+    "possible_answers": [
+        "A. Freedom of expression rights, property rights and fair trial rights",
+        "B. Mobility rights, Aboriginal People's rights, and official language rights",
+        "C. Aboriginal Peoples' rights, voting rights and official language rights",
+        "D. Employment rights, mobility rights, and freedom rights"
+    ],
+    "main_question": "Which three rights are included in the Canadian Charter of Rights and Freedoms?",
+    "answer": "B. Mobility rights, Aboriginal People's rights, and official language rights",
+    "page": "8",
+    "explanatory_sentence": null,
+    "correct_answer": "B"
+}

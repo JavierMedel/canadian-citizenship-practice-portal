@@ -1,0 +1,14 @@
+{
+    "question_number": "299",
+    "main_question": "When was \"employment insurance\" introduced by the Canadian federal government?",
+    "possible_answers": [
+        "A. 1947",
+        "B. 1950",
+        "C. 1940",
+        "D. 1965"
+    ],
+    "answer": "C. 1940",
+    "page": "P 24",
+    "explanatory_sentence": "Unemployment insurance (now called \"employment insurance\") was introduced by the federal government in 1940.",
+    "correct_answer": "C"
+}

@@ -1,0 +1,14 @@
+{
+    "question_number": "136",
+    "main_question": "Which countries fought in the Battle of the Plains of Abraham?",
+    "possible_answers": [
+        "A. British and German",
+        "B. British and French",
+        "C. France and China",
+        "D. America and British"
+    ],
+    "answer": "B. British and French",
+    "page": "P 15",
+    "explanatory_sentence": "In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City - marking the end of France's empire in America.",
+    "correct_answer": "B"
+}

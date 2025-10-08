@@ -1,0 +1,15 @@
+{
+    "question_number": "243",
+    "question": "Name three requirements you must meet in order to vote in a federal election:",
+    "possible_answers": [
+        "A. Canadian citizen, at least 21 years old, and on the list of electors",
+        "B. Canadian citizen, at least 18 years old and on the voters' list",
+        "C. Working for the government, at least 18 years old, and Canadian citizen",
+        "D. Canadian citizen, at least 16 years old, and on the list of voters"
+    ],
+    "main_question": "Name three requirements you must meet in order to vote in a federal election:",
+    "answer": "B. Canadian citizen, at least 18 years old and on the voters' list",
+    "page": "30",
+    "explanatory_sentence": null,
+    "correct_answer": "B"
+}

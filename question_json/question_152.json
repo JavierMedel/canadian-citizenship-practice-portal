@@ -1,0 +1,15 @@
+{
+    "question_number": "152",
+    "question": "In what sorts of jobs do most Canadians work?",
+    "possible_answers": [
+        "A. Service",
+        "B. Lumbering",
+        "C. Farming",
+        "D. Natural resources"
+    ],
+    "main_question": "In what sorts of jobs do most Canadians work?",
+    "answer": "A. Service",
+    "page": "42",
+    "explanatory_sentence": "More than 75% of working Canadians now have jobs in service industries.",
+    "correct_answer": "A"
+}

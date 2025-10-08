@@ -1,0 +1,15 @@
+{
+    "question_number": "169",
+    "question": "What does C.P.R. stand for?",
+    "possible_answers": [
+        "A. Canadian Pacific Railway",
+        "B. Canadian People Railway",
+        "C. Canadian Public Road",
+        "D. Canadian People Resource"
+    ],
+    "main_question": "What does C.P.R. stand for?",
+    "answer": "A. Canadian Pacific Railway",
+    "page": "20",
+    "explanatory_sentence": "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the West Coast. On November 7, 1885, a powerful symbol of unity was completed when Donald Smith (Lord Strathcona), the Scottish-born director of the Canadian Pacific Railway (CPR), drove the last spike.",
+    "correct_answer": "A"
+}

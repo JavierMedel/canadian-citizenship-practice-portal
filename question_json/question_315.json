@@ -1,0 +1,15 @@
+{
+    "question_number": "315",
+    "main_question": "What language do more than three-quarters of the people who live in Québec speak?",
+    "question": "What language do more than three-quarters of the people who live in Québec speak?",
+    "possible_answers": [
+        "A. English",
+        "B. French as their first language",
+        "C. Both English and French",
+        "D. Indigenous languages"
+    ],
+    "answer": "B. French as their first language",
+    "correct_answer": "B",
+    "page": "315",
+    "explanatory_sentence": "French is the predominant language in Québec, with over 75% of residents speaking French as their first language."
+}

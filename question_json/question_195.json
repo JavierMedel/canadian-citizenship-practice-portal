@@ -1,0 +1,15 @@
+{
+    "question_number": "195",
+    "main_question": "What is a Voter Information Card?",
+    "question": "What is a Voter Information Card?",
+    "possible_answers": [
+        "A. A list tells you who the candidates are in your electoral district",
+        "B. A letter that lets you know the voting schedule",
+        "C. A form that tells you where and when to vote",
+        "D. A card to let you register for voting"
+    ],
+    "answer": "C. A form that tells you where and when to vote",
+    "page": "P 30",
+    "explanatory_sentence": "Once an election has been called, Elections Canada mails a voter information card to each elector whose name is in the National Register of Electors. The card lists when and where you vote and the number to call if you require an interpreter or other special services.",
+    "correct_answer": "C"
+}

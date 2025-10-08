@@ -1,0 +1,15 @@
+{
+    "question_number": "23",
+    "question": "What does the National Register of Electors contain?",
+    "possible_answers": [
+        "A. Database of landed immigrants",
+        "B. Database of Canadian citizens at least 18 years of age who are qualified to vote in federal elections and referendums",
+        "C. Database of all Canadian citizens",
+        "D. Database of Canadian taxpayers"
+    ],
+    "main_question": "What does the National Register of Electors contain?",
+    "answer": "B. Database of Canadian citizens at least 18 years of age who are qualified to vote in federal elections and referendums",
+    "page": "30",
+    "explanatory_sentence": "The voters’ lists used during federal elections and referendums are produced from the National Register of Electors by a neutral agency of Parliament called Elections Canada. This is a permanent database of Canadian citizens 18 years of age or older who are qualified to vote in federal elections and referendums.",
+    "correct_answer": "B"
+}

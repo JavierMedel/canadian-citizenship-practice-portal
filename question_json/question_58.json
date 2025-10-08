@@ -1,0 +1,15 @@
+{
+    "question_number": "58",
+    "main_question": "Who was the first person to draw a map of Canada's east coast?",
+    "question": "Who was the first person to draw a map of Canada's east coast?",
+    "possible_answers": [
+        "A. Jean Talon",
+        "B. Georges Cartier",
+        "C. John Cabot",
+        "D. Jacques Cartier"
+    ],
+    "answer": "C. John Cabot",
+    "correct_answer": "C",
+    "page": "P 14",
+    "explanatory_sentence": "John Cabot, an Italian immigrant to England, was the first to map Canada's Atlantic shore, setting foot on Newfoundland or Cape Breton Island in 1497 and claiming the New Founde Land for England. English settlement did not begin until 1610."
+}

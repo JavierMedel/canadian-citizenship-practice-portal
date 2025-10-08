@@ -1,0 +1,15 @@
+{
+    "question_number": "196",
+    "question": "What is the \"head tax\"?",
+    "possible_answers": [
+        "A. Race-based entry fee charged for Chinese entering Canada",
+        "B. Fee charged for anyone entering Canada after 1900",
+        "C. A tax imposed on beer beginning in 1867",
+        "D. Fee charged for moving westward in the early 1900s"
+    ],
+    "main_question": "What is the \"head tax\"?",
+    "answer": "A. Race-based entry fee charged for Chinese entering Canada",
+    "page": "20",
+    "explanatory_sentence": "Afterwards the Chinese were subject to discrimination, including the Head Tax, a race-based entry fee.",
+    "correct_answer": "A"
+}

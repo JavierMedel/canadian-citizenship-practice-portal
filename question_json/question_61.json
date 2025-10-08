@@ -1,0 +1,15 @@
+{
+    "question_number": "61",
+    "question": "What is a Cabinet Minister?",
+    "possible_answers": [
+        "A. Candidate picked by the Prime Minister",
+        "B. MP picked by the Premier of each province",
+        "C. MP selected by the Prime Minister to run federal departments",
+        "D. MP selected by the King to make laws"
+    ],
+    "main_question": "What is a Cabinet Minister?",
+    "answer": "C. MP selected by the Prime Minister to run federal departments",
+    "page": "31",
+    "explanatory_sentence": "The Prime Minister chooses the ministers of the Crown, most of them from among members of the House of Commons. Cabinet ministers are responsible for running the federal government departments.",
+    "correct_answer": "C"
+}

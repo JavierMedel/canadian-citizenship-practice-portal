@@ -1,0 +1,15 @@
+{
+    "question_number": "102",
+    "main_question": "Who can enter and leave the country freely without time constraints?",
+    "question": "Who can enter and leave the country freely without time constraints?",
+    "possible_answers": [
+        "A. Permanent residents",
+        "B. Temporary residents (workers/students)",
+        "C. Canadian citizens",
+        "D. Visitors"
+    ],
+    "answer": "C. Canadian citizens",
+    "page": "102",
+    "explanatory_sentence": "Canadian citizens can enter and leave the country without time constraints; landed immigrants (permanent residents) have residency obligations and must meet time-in-Canada requirements.",
+    "correct_answer": "C"
+}

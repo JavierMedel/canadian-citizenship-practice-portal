@@ -1,0 +1,15 @@
+{
+    "question_number": "178",
+    "question": "Who is a Premier?",
+    "possible_answers": [
+        "A. The Prime Minister is also called the Premier.",
+        "B. A Premier has a role similar to that of the Prime Minister in a federal government.",
+        "C. The Commissioner",
+        "D. The Governor General"
+    ],
+    "main_question": "Who is a Premier?",
+    "answer": "B. A Premier has a role similar to that of the Prime Minister in a federal government.",
+    "page": "29",
+    "explanatory_sentence": "In each province, the Premier has a role similar to that of the Prime Minister in the federal government, just as the Lieutenant Governor has a role similar to that of the Governor General.",
+    "correct_answer": "B"
+}

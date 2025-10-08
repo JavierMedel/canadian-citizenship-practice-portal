@@ -1,0 +1,14 @@
+{
+    "question_number": "177",
+    "main_question": "The Municipal Government is responsible for which of the following?",
+    "possible_answers": [
+        "A. Natural resources",
+        "B. Currency",
+        "C. Garbage removal",
+        "D. Highways"
+    ],
+    "answer": "C. Garbage removal",
+    "page": "P 33",
+    "explanatory_sentence": "Municipalities are normally responsible for urban or regional planning, streets and roads, sanitation (such as garbage removal), snow removal, firefighting, ambulance and other emergency services, recreation facilities, public transit and some local health and social services.",
+    "correct_answer": "C"
+}

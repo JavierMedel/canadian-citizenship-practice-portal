@@ -1,0 +1,15 @@
+{
+    "question_number": "55",
+    "question": "Which region of Canada is known for its fertile agricultural land and energy resources?",
+    "possible_answers": [
+        "A. Central Canada",
+        "B. Quebec",
+        "C. Prairie Provinces",
+        "D. Maritime provinces"
+    ],
+    "main_question": "Which region of Canada is known for its fertile agricultural land and energy resources?",
+    "answer": "C. Prairie Provinces",
+    "page": "48",
+    "explanatory_sentence": "Manitoba, Saskatchewan and Alberta are the Prairie Provinces, rich in energy resources and some of the most fertile farmland in the world.",
+    "correct_answer": "C"
+}

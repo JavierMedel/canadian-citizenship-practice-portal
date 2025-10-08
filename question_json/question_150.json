@@ -1,0 +1,15 @@
+{
+    "question_number": "150",
+    "main_question": "What are the regions of Canada?",
+    "question": "What are the regions of Canada?",
+    "possible_answers": [
+        "A. West, North, South, East, and Central",
+        "B. West Coast, Central, East, Canadian Shield, and South",
+        "C. Atlantic, North, Central, Prairies, and West Coast",
+        "D. Rockies, Ontario, Québec, and Prairies"
+    ],
+    "answer": "C. Atlantic, North, Central, Prairies, and West Coast",
+    "page": "P 44",
+    "explanatory_sentence": "Canada is commonly divided into five regions: Atlantic, North, Central, Prairies, and West Coast, as listed in the Discover Canada resource.",
+    "correct_answer": "C"
+}

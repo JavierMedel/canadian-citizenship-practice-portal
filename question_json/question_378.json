@@ -1,0 +1,15 @@
+{
+    "question_number": "378",
+    "main_question": "What is a ballot?",
+    "question": "What is a ballot?",
+    "possible_answers": [
+        "A. A form that tells you when and where to vote",
+        "B. A dance",
+        "C. A form for voting",
+        "D. A form to count the number of votes"
+    ],
+    "answer": "C. A form for voting",
+    "correct_answer": "C",
+    "page": "P 32",
+    "explanatory_sentence": "A ballot is the form used by voters to record and submit their choices in an election."
+}

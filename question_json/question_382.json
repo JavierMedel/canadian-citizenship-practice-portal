@@ -1,0 +1,15 @@
+{
+    "question_number": "382",
+    "question": "When you vote on election day, what do you do?",
+    "possible_answers": [
+        "A. Go to the voting station, tell them who you are, and mark your X. Give the ballot back to the attendant.",
+        "B. Go to the voting station, remove one ballot, mark your X, and deposit it in the ballot box.",
+        "C. Go to the voting station, take your voter’s card with proof of identity, highlight your choice on the ballot, and deposit it in the box.",
+        "D. Go to the voting station, take your voter information card and ID, mark an X next to your chosen candidate, fold the ballot, and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box."
+    ],
+    "main_question": "When you vote on election day, what do you do?",
+    "answer": "D. Go to the voting station, take your voter information card and ID, mark an X next to your chosen candidate, fold the ballot, and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box.",
+    "page": "32",
+    "explanatory_sentence": null,
+    "correct_answer": "D"
+}

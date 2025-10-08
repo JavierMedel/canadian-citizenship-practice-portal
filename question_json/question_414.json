@@ -1,0 +1,15 @@
+{
+    "question_number": "414",
+    "question": "Can you send someone else or skip your duty if you are called to serve on a jury?",
+    "possible_answers": [
+        "A. Yes, you can send your spouse to serve on your behalf.",
+        "B. No, jury duty is a responsibility of citizenship that cannot be transferred or skipped.",
+        "C. Yes, you can skip jury duty if you inform the court in advance.",
+        "D. No, but you can hire someone to serve on the jury for you."
+    ],
+    "main_question": "Can you send someone else or skip your duty if you are called to serve on a jury?",
+    "answer": "B. No, jury duty is a responsibility of citizenship that cannot be transferred or skipped.",
+    "page": "9",
+    "explanatory_sentence": "When called to do so, you are legally required to serve. Serving on a jury is a privilege that makes the justice system work as it depends on impartial juries made up of citizens.",
+    "correct_answer": "B"
+}

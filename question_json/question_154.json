@@ -1,0 +1,15 @@
+{
+    "question_number": "154",
+    "question": "Which province is the only officially bilingual province?",
+    "possible_answers": [
+        "A. Ontario",
+        "B. Québec",
+        "C. Nova Scotia",
+        "D. New Brunswick"
+    ],
+    "main_question": "Which province is the only officially bilingual province?",
+    "answer": "D. New Brunswick",
+    "page": "47",
+    "explanatory_sentence": "New Brunswick is the only officially bilingual province, and about one-third of the population lives and works in French.",
+    "correct_answer": "D"
+}

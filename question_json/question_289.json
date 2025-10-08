@@ -1,0 +1,14 @@
+{
+    "question_number": "289",
+    "main_question": "Who invented the sport of basketball?",
+    "possible_answers": [
+        "A. Canadians",
+        "B. French",
+        "C. Germans",
+        "D. Americans"
+    ],
+    "answer": "A. Canadians",
+    "page": "P 26",
+    "explanatory_sentence": "Basketball was invented by Canadian James Naismith in 1891.",
+    "correct_answer": "A"
+}

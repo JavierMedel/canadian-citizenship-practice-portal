@@ -1,0 +1,15 @@
+{
+    "question_number": "69",
+    "question": "Who can ask you about whom you voted for?",
+    "possible_answers": [
+        "A. No one",
+        "B. Any other Canadian",
+        "C. Your local MP",
+        "D. The Prime Minister"
+    ],
+    "main_question": "Who can ask you about whom you voted for?",
+    "answer": "A. No one",
+    "page": "31",
+    "explanatory_sentence": "Canadian law secures the right to a secret ballot. This means that no one can watch you vote and no one should look at how you voted. You may choose to discuss how you voted with others, but no one, including family members, your employer or union representative, has the right to insist that you tell them how you voted.",
+    "correct_answer": "A"
+}

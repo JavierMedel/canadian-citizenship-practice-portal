@@ -1,0 +1,15 @@
+{
+    "question_number": "398",
+    "question": "What is the capital city of Canada?",
+    "possible_answers": [
+        "A. Ottawa",
+        "B. Victoria",
+        "C. Toronto",
+        "D. Ontario"
+    ],
+    "main_question": "What is the capital city of Canada?",
+    "answer": "A. Ottawa",
+    "page": "44",
+    "explanatory_sentence": "Ottawa, located on the Ottawa River, was chosen as the capital in 1857 by Queen Victoria, the great-great-grandmother of Queen Elizabeth II.",
+    "correct_answer": "A"
+}

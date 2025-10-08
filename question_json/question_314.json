@@ -1,0 +1,15 @@
+{
+    "question_number": "314",
+    "question": "How many Canadians served in World War II?",
+    "possible_answers": [
+        "A. More than one million",
+        "B. Less than 500,000",
+        "C. About 900,000",
+        "D. About 500,000"
+    ],
+    "main_question": "How many Canadians served in World War II?",
+    "answer": "A. More than one million",
+    "page": "23",
+    "explanatory_sentence": "More than one million Canadians and Newfoundlanders (Newfoundland was a separate British entity) served in the Second World War, out of a population of 11.5 million.",
+    "correct_answer": "A"
+}

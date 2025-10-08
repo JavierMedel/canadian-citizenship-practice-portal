@@ -1,0 +1,15 @@
+{
+    "question_number": "109",
+    "main_question": "Who chose Ottawa as the capital of Canada?",
+    "question": "Who chose Ottawa as the capital of Canada?",
+    "possible_answers": [
+        "A. Queen Elizabeth I",
+        "B. Queen Elizabeth II",
+        "C. Queen Victoria",
+        "D. Queen Anne"
+    ],
+    "answer": "C. Queen Victoria",
+    "page": "P 44",
+    "explanatory_sentence": "Ottawa, located on the Ottawa River, was chosen as the capital in 1857 by Queen Victoria, the great-great-grandmother of Queen Elizabeth II.",
+    "correct_answer": "C"
+}

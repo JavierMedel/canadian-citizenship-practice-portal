@@ -1,0 +1,15 @@
+{
+    "question_number": "83",
+    "main_question": "How is the Prime Minister chosen?",
+    "question": "How is the Prime Minister chosen?",
+    "possible_answers": [
+        "A. The Governor General chooses the Prime Minister",
+        "B. The leader of the party with the most votes nationwide",
+        "C. The Prime Minister is elected directly by citizens",
+        "D. The leader of the party with the most elected Members of Parliament"
+    ],
+    "answer": "D. The leader of the party with the most elected Members of Parliament",
+    "page": "83",
+    "explanatory_sentence": "The Prime Minister is normally the leader of the political party that wins the most seats in the elected House of Commons and is invited to form the government.",
+    "correct_answer": "D"
+}

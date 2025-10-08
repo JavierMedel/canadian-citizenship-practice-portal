@@ -1,0 +1,15 @@
+{
+    "question_number": "79",
+    "question": "What are three key facts about Canada's system of government?",
+    "possible_answers": [
+        "A. A federal kingdom, a parliamentary democracy, and a constitutional monarchy",
+        "B. A federal state, a parliamentary democracy, and a constitutional monarchy",
+        "C. A socialist country, a parliamentary democracy, and a constitutional monarchy",
+        "D. A federal country, a constitutional democracy, and a parliamentary monarchy"
+    ],
+    "main_question": "What are three key facts about Canada's system of government?",
+    "answer": "B. A federal state, a parliamentary democracy, and a constitutional monarchy",
+    "page": "28",
+    "explanatory_sentence": "There are three key facts about Canada's system of government: our country is a federal state, a parliamentary democracy and a constitutional monarchy.",
+    "correct_answer": "B"
+}

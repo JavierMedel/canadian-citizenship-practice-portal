@@ -1,0 +1,15 @@
+{
+    "question_number": "279",
+    "main_question": "Who governs Canada on a daily basis at the federal level?",
+    "question": "Who governs Canada on a daily basis at the federal level?",
+    "possible_answers": [
+        "A. The Premier",
+        "B. The Governor General",
+        "C. The King",
+        "D. The Prime Minister"
+    ],
+    "answer": "D. The Prime Minister",
+    "page": "P 29",
+    "explanatory_sentence": "There is a clear distinction in Canada between the head of state - the Sovereign - and the head of government - the Prime Minister, who actually directs the governing of the country.",
+    "correct_answer": "D"
+}

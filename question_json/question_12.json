@@ -1,0 +1,15 @@
+{
+    "question_number": "12",
+    "main_question": "What is the primary role of the police in Canada?",
+    "question": "What is the primary role of the police in Canada?",
+    "possible_answers": [
+        "A. To make laws",
+        "B. To keep people safe and to enforce the law",
+        "C. To judge people in court",
+        "D. To set taxes and government policy"
+    ],
+    "answer": "B. To keep people safe and to enforce the law",
+    "page": "12",
+    "explanatory_sentence": "The primary function of police is public safety and enforcing laws; courts interpret law, national security agencies handle intelligence, and the military handles warfare/peacekeeping.",
+    "correct_answer": "B"
+}

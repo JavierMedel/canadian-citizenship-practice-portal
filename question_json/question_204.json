@@ -1,0 +1,15 @@
+{
+    "question_number": "204",
+    "main_question": "What is the tenure of the Governor General?",
+    "question": "What is the tenure of the Governor General?",
+    "possible_answers": [
+        "A. (not visible)",
+        "B. 5 years",
+        "C. (not visible)",
+        "D. (not visible)"
+    ],
+    "answer": "B. 5 years",
+    "page": "204",
+    "explanatory_sentence": "The customary term length for a Governor General is five years, so the correct choice is 5 years.",
+    "correct_answer": "B"
+}

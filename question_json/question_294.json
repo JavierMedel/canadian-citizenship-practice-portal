@@ -1,0 +1,15 @@
+{
+    "question_number": "294",
+    "main_question": "Which of the following is the highest court of Canada?",
+    "question": "Which of the following is the highest court of Canada?",
+    "possible_answers": [
+        "A. A Provincial Court",
+        "B. The Small Claims Courts",
+        "C. The Supreme Court",
+        "D. The Federal Court"
+    ],
+    "answer": "C. The Supreme Court",
+    "page": "P 37",
+    "explanatory_sentence": "The Supreme Court of Canada is our country's highest court.",
+    "correct_answer": "C"
+}

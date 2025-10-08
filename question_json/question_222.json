@@ -1,0 +1,15 @@
+{
+    "question_number": "222",
+    "main_question": "Who signs the bills if it is approved by the Provincial Parliament?",
+    "question": "Who signs the bills if it is approved by the Provincial Parliament?",
+    "possible_answers": [
+        "A. The Mayor",
+        "B. The Premier",
+        "C. The Members of the Provincial Parliament",
+        "D. The Lieutenant-Governor"
+    ],
+    "answer": "D. The Lieutenant-Governor",
+    "page": "P 28, 29",
+    "explanatory_sentence": "If the provincial parliament approves a bill, the Lieutenant-Governor gives royal assent by signing the bill for it to become law.",
+    "correct_answer": "D"
+}

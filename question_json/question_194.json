@@ -1,0 +1,15 @@
+{
+    "question_number": "194",
+    "main_question": "Which courts are for civil cases involving small sums of money?",
+    "question": "Which courts are for civil cases involving small sums of money?",
+    "possible_answers": [
+        "A. The Federal Court",
+        "B. The Small Claims Courts",
+        "C. A trial court",
+        "D. A provincial court"
+    ],
+    "answer": "B. The Small Claims Courts",
+    "page": "P 37",
+    "explanatory_sentence": "There are also provincial courts for lesser offences, family courts, traffic courts and small claims courts for civil cases involving small sums of money.",
+    "correct_answer": "B"
+}

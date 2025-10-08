@@ -1,0 +1,15 @@
+{
+    "question_number": "368",
+    "question": "How many votes can a voter have in a federal election?",
+    "possible_answers": [
+        "A. It does not matter",
+        "B. Three",
+        "C. Two",
+        "D. One"
+    ],
+    "main_question": "How many votes can a voter have in a federal election?",
+    "answer": "D. One",
+    "page": "32",
+    "explanatory_sentence": null,
+    "correct_answer": "D"
+}

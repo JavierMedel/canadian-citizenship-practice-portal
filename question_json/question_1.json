@@ -1,0 +1,14 @@
+{
+    "question_number": "1",
+    "main_question": "When must a federal election be held according to legislation passed by Parliament?",
+    "possible_answers": [
+        "A. When the King wants to replace the Prime Minister",
+        "B. Within 4 years of the most recent election",
+        "C. Within 5 years of the last election",
+        "D. The Prime Minister can call the election any time at his own will"
+    ],
+    "answer": "B. Within 4 years of the most recent election",
+    "page": "P 30",
+    "explanatory_sentence": "Under legislation passed by Parliament, federal elections must be held on the third Monday in October every four years following the most recent general election.",
+    "correct_answer": "B"
+}

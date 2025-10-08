@@ -1,0 +1,15 @@
+{
+    "question_number": "60",
+    "question": "What is a polling station?",
+    "possible_answers": [
+        "A. Place where you vote",
+        "B. Campaign offices for candidates",
+        "C. Place where the number of votes is counted",
+        "D. Member of Parliament's constituency"
+    ],
+    "main_question": "What is a polling station?",
+    "answer": "A. Place where you vote",
+    "page": "30",
+    "explanatory_sentence": "To vote either on election day or at advance polls, go to the polling station listed on your voter information card.",
+    "correct_answer": "A"
+}

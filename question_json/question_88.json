@@ -1,0 +1,15 @@
+{
+    "question_number": "88",
+    "question": "From where did the first European settlers in Canada come?",
+    "possible_answers": [
+        "A. Germany",
+        "B. England",
+        "C. France",
+        "D. Iceland"
+    ],
+    "main_question": "From where did the first European settlers in Canada come?",
+    "answer": "C. France",
+    "page": "15",
+    "explanatory_sentence": "In 1604, the first European settlement north of Florida was established by French explorers Pierre de Monts and Samuel de Champlain, first on St. Croix Island (in present-day Maine), then at Port-Royal, in Acadia (present-day Nova Scotia).",
+    "correct_answer": "C"
+}

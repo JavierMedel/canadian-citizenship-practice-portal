@@ -1,0 +1,15 @@
+{
+    "question_number": "9",
+    "question": "What was the \"Underground Railroad\"?",
+    "main_question": "What was the 'Underground Railroad'?",
+    "possible_answers": [
+        "A. An anti-slavery network that helped thousands of slaves escape the United States and settle in Canada",
+        "B. A railroad through the Rockies that was mainly through mountain tunnels",
+        "C. A network fur traders used to transport beaver pelts to the United States",
+        "D. The first underground subway tunnel in Toronto"
+    ],
+    "answer": "A. An anti-slavery network that helped thousands of slaves escape the United States and settle in Canada",
+    "page": "16",
+    "explanatory_sentence": "Thousands of slaves escaped from the United States, followed 'the North Star' and settled in Canada via the Underground Railroad, a Christian anti-slavery network.",
+    "correct_answer": "A"
+}

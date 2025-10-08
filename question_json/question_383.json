@@ -1,0 +1,14 @@
+{
+    "question_number": "383",
+    "main_question": "Which of the following criteria give a Canadian the right to vote?",
+    "possible_answers": [
+        "A. Owning a house",
+        "B. Being on an official voters' list",
+        "C. Having a driver's license",
+        "D. Being an immigrant"
+    ],
+    "answer": "B. Being on an official voters' list",
+    "page": "P 30",
+    "explanatory_sentence": "The voters' lists used during federal elections and referendums are produced from the National Register of Electors by a neutral agency of Parliament called Elections Canada. This is a permanent database of Canadian citizens 18 years of age or older who are qualified to vote in federal elections and referendums.",
+    "correct_answer": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "57",
+    "question": "Which province in Canada is the smallest in land size?",
+    "possible_answers": [
+        "A. British Columbia",
+        "B. Prince Edward Island",
+        "C. Alberta",
+        "D. New Brunswick"
+    ],
+    "main_question": "Which province in Canada is the smallest in land size?",
+    "answer": "B. Prince Edward Island",
+    "page": "46",
+    "explanatory_sentence": "Prince Edward Island (P.E.I.) is the smallest province, known for its beaches, red soil and agriculture, especially potatoes. P.E.I.",
+    "correct_answer": "B"
+}

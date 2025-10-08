@@ -1,0 +1,15 @@
+{
+    "question_number": "261",
+    "question": "What does the \"right to a secret ballot\" mean?",
+    "possible_answers": [
+        "A. No one can watch you vote except the election officer.",
+        "B. The voter should not tell anyone for whom he or she voted.",
+        "C. Only the candidate you vote for can watch your marked ballot.",
+        "D. No one can watch you vote or look at your marked ballot."
+    ],
+    "main_question": "What does the \"right to a secret ballot\" mean?",
+    "answer": "D. No one can watch you vote or look at your marked ballot.",
+    "page": "31",
+    "explanatory_sentence": "Canadian law secures the right to a secret ballot. This means that no one can watch you vote and no one should look at how you voted.",
+    "correct_answer": "D"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "107",
+    "question": "How is the government formed after a federal election?",
+    "possible_answers": [
+        "A. Each province elects one representative to form the government. The King then chooses the Prime Minister.",
+        "B. The Governor General picks a party and a Prime Minister to run the government.",
+        "C. The party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister.",
+        "D. The party with the most elected representatives becomes the party in power. The King chooses the Prime Minister from this party."
+    ],
+    "main_question": "How is the government formed after a federal election?",
+    "answer": "C. The party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister.",
+    "page": "31",
+    "explanatory_sentence": "Ordinarily, after an election, the leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government. After being appointed by the Governor General, the leader of this party becomes the Prime Minister.",
+    "correct_answer": "C"
+}

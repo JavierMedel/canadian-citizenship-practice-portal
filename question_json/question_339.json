@@ -1,0 +1,15 @@
+{
+    "question_number": "339",
+    "main_question": "What song is Canada's National Anthem?",
+    "question": "What song is Canada's National Anthem?",
+    "possible_answers": [
+        "A. God Save the Queen",
+        "B. O Canada",
+        "C. The Maple Leaf Forever",
+        "D. Auld Lang Syne"
+    ],
+    "answer": "B. O Canada",
+    "correct_answer": "B",
+    "page": "339",
+    "explanatory_sentence": "Canada's national anthem is 'O Canada', which was officially adopted as the national anthem in 1980."
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "334",
+    "main_question": "When asked, who must you tell who you voted for in a federal election?",
+    "question": "When asked, who must you tell who you voted for in a federal election?",
+    "possible_answers": [
+        "A. (not shown)",
+        "B. (not shown)",
+        "C. (not shown)",
+        "D. No one"
+    ],
+    "answer": "D. No one",
+    "page": "334",
+    "explanatory_sentence": "Voting is secret in federal elections — you are not required to tell anyone (including police, your employer, or Elections Canada officials) who you voted for.",
+    "correct_answer": "D"
+}

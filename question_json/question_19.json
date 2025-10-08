@@ -1,0 +1,15 @@
+{
+    "question_number": "19",
+    "question": "Can you name the five Great Lakes between Canada and the U.S.?",
+    "possible_answers": [
+        "A. Lake Toronto, Lake Michigan, Lake Mexico, Lake Ontario, Lake St. Louis",
+        "B. Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario",
+        "C. Lake Michigan, Lake Victoria, Lake Mexico, Lake Ontario, Lake St. Louis",
+        "D. None of the above"
+    ],
+    "main_question": "Can you name the five Great Lakes between Canada and the U.S.?",
+    "answer": "B. Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario",
+    "page": "48",
+    "explanatory_sentence": "There are five Great Lakes located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, Lake Michigan (in the U.S.A.) and Lake Superior, the largest freshwater lake in the world.",
+    "correct_answer": "B"
+}

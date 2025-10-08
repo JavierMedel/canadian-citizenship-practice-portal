@@ -1,0 +1,14 @@
+{
+    "question_number": "68",
+    "main_question": "One-third of all Canadians live in:",
+    "possible_answers": [
+        "A. Saskatchewan",
+        "B. Quebec",
+        "C. Alberta",
+        "D. Ontario"
+    ],
+    "answer": "D. Ontario",
+    "correct_answer": "D",
+    "page": "P 48",
+    "explanatory_sentence": "At more than 12 million, the people of Ontario make up more than one-third of Canadians."
+}

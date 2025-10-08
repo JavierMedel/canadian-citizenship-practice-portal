@@ -1,0 +1,15 @@
+{
+    "question_number": "180",
+    "question": "Who is the head of the government in Canada?",
+    "possible_answers": [
+        "A. The Sovereign",
+        "B. The Prime Minister",
+        "C. The Premier",
+        "D. The Commissioner"
+    ],
+    "main_question": "Who is the head of the government in Canada?",
+    "answer": "B. The Prime Minister",
+    "page": "29",
+    "explanatory_sentence": "There is a clear distinction in Canada between the head of state - the Sovereign - and the head of government - the Prime Minister, who actually directs the governing of the country.",
+    "correct_answer": "B"
+}

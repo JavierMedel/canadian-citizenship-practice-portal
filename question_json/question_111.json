@@ -1,0 +1,15 @@
+{
+    "question_number": "111",
+    "question": "What are the Prime Minister and Cabinet Ministers together called?",
+    "possible_answers": [
+        "A. The Government",
+        "B. The Cabinet",
+        "C. The House of Commons",
+        "D. The Senate"
+    ],
+    "main_question": "What are the Prime Minister and Cabinet Ministers together called?",
+    "answer": "B. The Cabinet",
+    "page": "31",
+    "explanatory_sentence": "The Prime Minister and the Cabinet ministers are called the Cabinet and they make important decisions about how the country is governed.",
+    "correct_answer": "B"
+}

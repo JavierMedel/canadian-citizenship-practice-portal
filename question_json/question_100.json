@@ -1,0 +1,15 @@
+{
+    "question_number": "100",
+    "main_question": "Who led an armed uprising and seized Fort Garry?",
+    "question": "Who led an armed uprising and seized Fort Garry?",
+    "possible_answers": [
+        "A. John A. Macdonald",
+        "B. Louis Riel",
+        "C. Gabriel Dumont",
+        "D. William McDougall"
+    ],
+    "answer": "B. Louis Riel",
+    "page": "1",
+    "explanatory_sentence": "Louis Riel led the Red River Rebellion (1869–1870) and his Métis forces seized Fort Garry during that uprising.",
+    "correct_answer": "B"
+}

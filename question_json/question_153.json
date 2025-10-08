@@ -1,0 +1,15 @@
+{
+    "question_number": "153",
+    "question": "What is written on an election ballot?",
+    "possible_answers": [
+        "A. The names of the candidates in your election district",
+        "B. Who you should vote for",
+        "C. The date and time you are allowed to vote",
+        "D. Where you should vote"
+    ],
+    "main_question": "What is written on an election ballot?",
+    "answer": "A. The names of the candidates in your election district",
+    "page": "32",
+    "explanatory_sentence": "Marking the ballot: Mark an \"X\" in the circle next to the name of the candidate of your choice.",
+    "correct_answer": "A"
+}

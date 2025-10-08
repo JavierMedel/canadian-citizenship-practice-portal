@@ -1,0 +1,15 @@
+{
+    "question_number": "215",
+    "main_question": "What is the Okanagan Valley famous for?",
+    "question": "What is the Okanagan Valley famous for?",
+    "possible_answers": [
+        "A. Forestry industry",
+        "B. Mining",
+        "C. Fruit orchards",
+        "D. Wine industry"
+    ],
+    "answer": "C. Fruit orchards",
+    "correct_answer": "C",
+    "page": "215",
+    "explanatory_sentence": "The Okanagan Valley in British Columbia is well known for its fruit orchards and vineyards due to its warm climate and fertile soils."
+}

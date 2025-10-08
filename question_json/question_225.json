@@ -1,0 +1,15 @@
+{
+    "question_number": "225",
+    "question": "Who was the first Prime Minister of Canada?",
+    "possible_answers": [
+        "A. Sir John Alexander Macdonald",
+        "B. Alexander Mackenzie",
+        "C. Pierre Elliott Trudeau",
+        "D. Sir John McDonald"
+    ],
+    "main_question": "Who was the first Prime Minister of Canada?",
+    "answer": "A. Sir John Alexander Macdonald",
+    "page": "19",
+    "explanatory_sentence": "In 1867, Sir John Alexander Macdonald, a Father of Confederation, became Canada's first Prime Minister.",
+    "correct_answer": "A"
+}

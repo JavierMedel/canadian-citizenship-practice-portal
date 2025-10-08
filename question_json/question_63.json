@@ -1,0 +1,14 @@
+{
+    "question_number": "63",
+    "main_question": "What is a major river in Quebec?",
+    "possible_answers": [
+        "A. Hudson's Bay",
+        "B. Niagara",
+        "C. Fraser River",
+        "D. St. Lawrence River"
+    ],
+    "answer": "D. St. Lawrence River",
+    "page": "P 47",
+    "explanatory_sentence": "Nearly eight million people live in Quebec, the vast majority along or near the St. Lawrence River.",
+    "correct_answer": "D"
+}

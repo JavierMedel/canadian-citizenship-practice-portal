@@ -1,0 +1,15 @@
+{
+    "question_number": "326",
+    "question": "Which is the most famous invention of Research In Motion (RIM), a wireless communications company?",
+    "possible_answers": [
+        "A. The Canadarm",
+        "B. The first wireless voice message",
+        "C. The BlackBerry",
+        "D. The iPhone"
+    ],
+    "main_question": "Which is the most famous invention of Research In Motion (RIM), a wireless communications company?",
+    "answer": "C. The BlackBerry",
+    "page": "27",
+    "explanatory_sentence": "Mike Lazaridis and Jim Balsillie - of Research in Motion (RIM) - a wireless communications company known for its most famous invention: the BlackBerry.",
+    "correct_answer": "C"
+}

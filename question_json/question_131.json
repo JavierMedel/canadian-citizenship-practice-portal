@@ -1,0 +1,15 @@
+{
+    "question_number": "131",
+    "main_question": "What forms a jury?",
+    "question": "What forms a jury?",
+    "possible_answers": [
+        "A. Politicians",
+        "B. Immigrants",
+        "C. Judges",
+        "D. Citizens"
+    ],
+    "answer": "D. Citizens",
+    "correct_answer": "D",
+    "page": "P 9",
+    "explanatory_sentence": "Serving on a jury is a privilege that makes the justice system work as it depends on impartial juries made up of citizens."
+}

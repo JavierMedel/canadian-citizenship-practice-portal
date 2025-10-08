@@ -1,0 +1,14 @@
+{
+    "question_number": "126",
+    "main_question": "Which province is on the Pacific coast of Canada?",
+    "possible_answers": [
+        "A. Nova Scotia",
+        "B. Alberta",
+        "C. New Brunswick",
+        "D. British Columbia"
+    ],
+    "answer": "D. British Columbia",
+    "correct_answer": "D",
+    "page": "P 49",
+    "explanatory_sentence": "British Columbia (B.C.), on the Pacific coast, is Canada's westernmost province, with a population of four million."
+}

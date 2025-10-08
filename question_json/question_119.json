@@ -1,0 +1,15 @@
+{
+    "question_number": "119",
+    "question": "Which provinces are connected to Ontario by land?",
+    "possible_answers": [
+        "A. New Brunswick and Québec",
+        "B. Alberta and Québec",
+        "C. Manitoba and Québec",
+        "D. Manitoba and Alberta"
+    ],
+    "main_question": "Which provinces are connected to Ontario by land?",
+    "answer": "C. Manitoba and Québec",
+    "page": "45",
+    "explanatory_sentence": null,
+    "correct_answer": "C"
+}

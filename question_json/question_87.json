@@ -1,0 +1,15 @@
+{
+    "question_number": "87",
+    "main_question": "What are the colors present in the Canadian flag?",
+    "question": "What are the colors present in the Canadian flag?",
+    "possible_answers": [
+        "A. Red, white and blue",
+        "B. Red and white",
+        "C. Red only",
+        "D. White and green"
+    ],
+    "answer": "B. Red and white",
+    "page": "87",
+    "explanatory_sentence": "The Canadian flag has red bars on each side and a white field with a red maple leaf in the center, so its colors are red and white.",
+    "correct_answer": "B"
+}

@@ -1,0 +1,15 @@
+{
+    "question_number": "328",
+    "main_question": "In 1996, at the Olympic Games, which Canadian became a world record sprinter and double Olympic gold medalist?",
+    "question": "In 1996, at the Olympic Games, which Canadian became a world record sprinter and double Olympic gold medalist?",
+    "possible_answers": [
+        "A. (not shown)",
+        "B. (not shown)",
+        "C. Donovan Bailey",
+        "D. (not shown)"
+    ],
+    "answer": "C. Donovan Bailey",
+    "page": "328",
+    "explanatory_sentence": "Donovan Bailey won the 100m at the 1996 Atlanta Olympics, setting a then-world record, and was part of Canada's 4x100m relay gold-winning team, making him a double Olympic gold medallist.",
+    "correct_answer": "C"
+}

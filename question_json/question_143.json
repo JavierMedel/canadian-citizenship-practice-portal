@@ -1,0 +1,15 @@
+{
+    "question_number": "143",
+    "main_question": "Who, among these, is a Nobel Prize-winning scientist?",
+    "question": "Who, among these, is a Nobel Prize-winning scientist?",
+    "possible_answers": [
+        "A. Gerhard Herzberg",
+        "B. Marshall McLuhan",
+        "C. Alexander Graham Bell",
+        "D. Harold Innis"
+    ],
+    "answer": "A. Gerhard Herzberg",
+    "page": "P 26",
+    "explanatory_sentence": "Gerhard Herzberg, a refugee from Nazi Germany, John Polanyi, Sidney Altman, Richard E. Taylor, Michael Smith and Bertram Brockhouse were Nobel Prize-winning scientists.",
+    "correct_answer": "A"
+}

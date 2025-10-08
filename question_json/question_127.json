@@ -1,0 +1,15 @@
+{
+    "question_number": "127",
+    "main_question": "How many Great Lakes are located between Ontario and the United States?",
+    "question": "How many Great Lakes are located between Ontario and the United States?",
+    "possible_answers": [
+        "A. Four",
+        "B. Five",
+        "C. Six",
+        "D. Seven"
+    ],
+    "answer": "B. Five",
+    "page": "P 48",
+    "explanatory_sentence": "There are five Great Lakes located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, Lake Michigan (in the U.S.A.) and Lake Superior, the largest freshwater lake in the world.",
+    "correct_answer": "B"
+}

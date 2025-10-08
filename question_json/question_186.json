@@ -1,0 +1,15 @@
+{
+    "question_number": "186",
+    "question": "Which country was liberated by the Canadian Army in 1944-1945?",
+    "possible_answers": [
+        "A. Germany",
+        "B. Austria",
+        "C. The Netherlands",
+        "D. Japan"
+    ],
+    "main_question": "Which country was liberated by the Canadian Army in 1944-1945?",
+    "answer": "C. The Netherlands",
+    "page": "23",
+    "explanatory_sentence": "The Canadian Army liberated the Netherlands in 1944-45 and helped force the German surrender of May 8, 1945, bringing to an end six years of war in Europe.",
+    "correct_answer": "C"
+}
