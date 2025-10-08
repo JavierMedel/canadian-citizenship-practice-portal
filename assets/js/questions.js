@@ -59,12 +59,9 @@ function parseQuery() {
 function ensureQuestionFilename(q) {
   if (!q) return null;
   let s = String(q).trim();
-  // support numeric shorthand like ?question=1 -> question_1.json
   const m = s.match(/^\d+$/);
   if (m) return `question_${s}.json`;
-  // if already a filename, return as-is (ensure .json)
   if (s.toLowerCase().endsWith('.json')) return s;
-  // support values like question_1 or question-1
   const num = (s.match(/(\d+)$/) || [])[1];
   if (num) return `question_${num}.json`;
   return s;
@@ -118,27 +115,21 @@ function normalizeQuestion(raw) {
   }
 
   let correctIndex = -1;
-  // Numeric positions
   if (typeof raw.correct_index === 'number') correctIndex = raw.correct_index;
   else if (typeof raw.correctIdx === 'number') correctIndex = raw.correctIdx;
   else if (typeof raw.correct === 'number') correctIndex = raw.correct;
-  // Letter like "B" or a full answer string
   if (correctIndex < 0 && typeof raw.correct_answer === 'string') {
-    // Try letter mapping first
     correctIndex = indexFromLetter(raw.correct_answer);
     if (correctIndex < 0) {
-      // Try exact match to a label
       const needle = raw.correct_answer.toString().trim();
       let idx = labels.findIndex(l => l.trim() === needle);
       if (idx < 0) {
-        // Try by matching stripped text (ignoring leading "A.")
         const strippedNeedle = stripLetterPrefix(needle);
         idx = labels.findIndex(l => stripLetterPrefix(l) === strippedNeedle);
       }
       correctIndex = idx;
     }
   }
-  // Fallback: if an explicit 'answer' string exists, match it
   if (correctIndex < 0 && typeof raw.answer === 'string') {
     const needle = raw.answer.toString().trim();
     let idx = labels.findIndex(l => l.trim() === needle);
@@ -148,7 +139,6 @@ function normalizeQuestion(raw) {
     }
     correctIndex = idx;
   }
-  // Fallback: object choices with correct flag
   if (correctIndex < 0) {
     const idx = choices.findIndex(c => typeof c === 'object' && (c.correct === true || c.isCorrect === true));
     correctIndex = idx;
@@ -183,7 +173,6 @@ function renderQuestion(q, index, total, state) {
   setText(textEl, '');
   answersEl.innerHTML = '';
   hide(feedbackEl);
-  // show source question number if available
   const sourceEl = $('#questionSource');
   if (sourceEl) {
     if (q.question_number) setText(sourceEl, `Source: question_${q.question_number}`);
@@ -230,49 +219,15 @@ function renderQuestion(q, index, total, state) {
         feedbackEl.setAttribute('data-type', 'success');
         state.score += 1;
       }
-      // Render short result and explanatory sentence (escaped)
       insertFeedback(feedbackEl, fb, q.explanation);
       show(feedbackEl);
       $all('.answer').forEach(el => el.classList.add('disabled'));
       nextBtn.disabled = false;
       updateScore(state);
-      // persist selection and state
-      if (state._storageKey) {
-        const stored = loadProgress(state._storageKey) || {};
-        stored.idx = state.idx;
-        stored.score = state.score;
-        stored.locked = state.locked;
-        stored.answers = stored.answers || {};
-        stored.answers[String(index)] = selected;
-        // also save remaining time if available
-        if (state._remaining != null) stored.remaining = state._remaining;
-        saveProgress(state._storageKey, stored);
-      }
     });
   });
 
   prevBtn.disabled = index === 0;
-  // if there's a stored answer for this index, restore UI
-  if (state._storageKey) {
-    const stored = loadProgress(state._storageKey) || {};
-    const ans = stored.answers && stored.answers[String(index)];
-    if (typeof ans === 'number') {
-      const target = answersEl.querySelector(`label[data-index="${String(ans)}"]`);
-      if (target) {
-        target.classList.add('answer--selected');
-        // visually apply lock state
-        target.classList.add('answer--disabled');
-        // also show feedback and mark correct/wrong
-        const correct = q.correctIndex;
-        const correctEl = answersEl.querySelector(`label[data-index="${correct}"]`);
-        correctEl?.classList.add('answer--correct');
-        if (ans !== correct) target.classList.add('answer--wrong');
-        insertFeedback(feedbackEl, (ans === correct) ? 'Correct' : 'Incorrect', q.explanation);
-        show(feedbackEl);
-        nextBtn.disabled = false;
-      }
-    }
-  }
 }
 
 function updateScore(state) {
@@ -294,58 +249,13 @@ function showResults(state) {
   const passText = passed ? 'PASSED' : 'FAILED';
   const details = `You scored ${state.score} out of ${state.total}.`;
   setText($('#resultsText'), `${passText} — ${details} (${passThreshold} required to pass)`);
-  // clear stored progress for this test
-  if (state._storageKey) {
-    clearProgress(state._storageKey);
-  }
-}
-
-function showResumePrompt() {
-  return new Promise((resolve) => {
-    // create modal elements
-    const overlay = document.createElement('div');
-    overlay.style.position = 'fixed';
-    overlay.style.inset = '0';
-    overlay.style.background = 'rgba(0,0,0,0.4)';
-    overlay.style.display = 'flex';
-    overlay.style.alignItems = 'center';
-    overlay.style.justifyContent = 'center';
-    overlay.style.zIndex = 9999;
-
-    const box = document.createElement('div');
-    box.style.background = '#fff';
-    box.style.padding = '1rem 1.25rem';
-    box.style.borderRadius = '8px';
-    box.style.maxWidth = '520px';
-    box.style.width = '100%';
-    box.style.boxShadow = '0 8px 30px rgba(0,0,0,0.12)';
-
-    box.innerHTML = `
-      <h3 style="margin:0 0 .5rem">Resume previous attempt?</h3>
-      <p style="margin:0 0 1rem">We found a saved attempt for this test. Do you want to resume where you left off or start a fresh attempt? Starting fresh will clear previously saved answers.</p>
-      <div style="display:flex; gap:.5rem; justify-content:flex-end">
-        <button id="resumeBtn" class="btn btn--ghost" type="button">Resume</button>
-        <button id="freshBtn" class="btn" type="button">Start fresh</button>
-      </div>
-    `;
-
-    overlay.appendChild(box);
-    document.body.appendChild(overlay);
-
-    const cleanup = () => { overlay.remove(); };
-
-    box.querySelector('#resumeBtn').addEventListener('click', () => { cleanup(); resolve('resume'); });
-    box.querySelector('#freshBtn').addEventListener('click', () => { cleanup(); resolve('fresh'); });
-  });
 }
 
 async function init() {
   const { test } = parseQuery();
   const qparam = (parseQuery().question || parseQuery().q || '').toString();
-  // keep active storage key accessible to other logic
-  let activeStorageKey = null;
+
   if (!test) {
-    // If a single question param is provided, load that single question
     if (qparam) {
       const qfile = ensureQuestionFilename(qparam);
       let qRaw;
@@ -361,7 +271,6 @@ async function init() {
       const state = { idx: 0, total: 1, score: 0, locked: false };
       updateScore(state);
       renderQuestion(question, 0, 1, state);
-      // Disable prev/next since single question
       $('#prevBtn').disabled = true;
       $('#nextBtn').disabled = true;
       return;
@@ -382,57 +291,30 @@ async function init() {
   }
 
   const state = { idx: 0, total: questions.length, score: 0, locked: false };
-  // attach storage key and attempt to restore
+
+  // Always start fresh
   const storageKey = storageKeyForTest(test);
+  clearProgress(storageKey);
   state._storageKey = storageKey;
-  // expose to early exit handler so it can clear progress if user exits
-  activeStorageKey = storageKey;
-  const stored = loadProgress(storageKey);
-  if (stored) {
-    // Ask user whether to resume or start fresh
-    const choicePromise = showResumePrompt();
-    const choice = await choicePromise;
-    if (choice === 'fresh') {
-      clearProgress(storageKey);
-    } else {
-      // restore index, score, and remaining time when available
-      state.idx = typeof stored.idx === 'number' ? stored.idx : state.idx;
-      state.score = typeof stored.score === 'number' ? stored.score : state.score;
-    }
-  }
   updateScore(state);
 
-  // Timer: 20 minutes (1200 seconds)
+  // Timer: 20 minutes
   const totalTime = 20 * 60;
   let remaining = totalTime;
-  if (stored && typeof stored.remaining === 'number') {
-    remaining = stored.remaining;
-  }
   const timerBar = $('#timerBar');
   const timerCount = $('#timerCount');
   timerCount.textContent = formatTimeSeconds(remaining);
-  let timerInterval = setInterval(() => {
+
+  const timerInterval = setInterval(() => {
     remaining -= 1;
     if (timerBar) timerBar.style.width = `${((totalTime - remaining) / totalTime) * 100}%`;
     if (timerCount) timerCount.textContent = formatTimeSeconds(remaining);
     if (remaining <= 0) {
       clearInterval(timerInterval);
-      // Time's up: show results immediately
-      state._remaining = 0;
-      saveProgress(state._storageKey, { idx: state.idx, score: state.score, remaining: 0, answers: (loadProgress(state._storageKey) || {}).answers || {} });
       showResults(state);
     }
-    // persist remaining and stop time into state
-    state._remaining = remaining;
-    if (state._storageKey) {
-      const cur = loadProgress(state._storageKey) || {};
-      cur.remaining = remaining;
-      cur.idx = state.idx;
-      cur.score = state.score;
-      saveProgress(state._storageKey, cur);
-    }
   }, 1000);
-  // keep reference for clearing
+
   quizTimerInterval = timerInterval;
 
   const nextBtn = $('#nextBtn');
@@ -444,26 +326,12 @@ async function init() {
     renderQuestion(questions[state.idx], state.idx, state.total, state);
   }
 
-
   nextBtn.addEventListener('click', () => {
     state.idx += 1;
-    // persist index
-    if (state._storageKey) {
-      const cur = loadProgress(state._storageKey) || {};
-      cur.idx = state.idx;
-      cur.score = state.score;
-      saveProgress(state._storageKey, cur);
-    }
     renderCurrent();
   });
   prevBtn.addEventListener('click', () => {
     if (state.idx > 0) state.idx -= 1;
-    if (state._storageKey) {
-      const cur = loadProgress(state._storageKey) || {};
-      cur.idx = state.idx;
-      cur.score = state.score;
-      saveProgress(state._storageKey, cur);
-    }
     renderCurrent();
   });
 
