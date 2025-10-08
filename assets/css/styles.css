@@ -148,7 +148,7 @@ hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
 .user-area .user-name { font-size:.95rem; color:var(--muted,#666); margin-right:.25rem; }
 
 /* locked test card overlay */
-.test-card.locked { opacity:0.9; position:relative; overflow:hidden; }
+.test-card.locked { opacity:0.9; position:relative; overflow:hidden; pointer-events: none; }
 .test-card .lock-overlay {
   position:absolute;
   inset:0;
@@ -156,7 +156,8 @@ hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
   align-items:center;
   justify-content:center;
   background: rgba(255,255,255,0.85);
-  pointer-events:auto;
+  pointer-events: auto; /* allow overlay to receive clicks while card is inert */
+  z-index: 30; /* ensure overlay sits above other content */
   text-align:center;
   padding:0.5rem;
 }

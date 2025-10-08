@@ -103,17 +103,7 @@ function renderTestGrid(files) {
       window.location.href = `questions.html?test=${encodeURIComponent(name)}`;
     });
     gridEl.appendChild(item);
-    // if not signed in and index is 5 (6th item), insert a sign-in prompt and stop adding further tiles
-    if (!signed && idx === 4 && files.length > 5) {
-      const prompt = document.createElement('div');
-      prompt.className = 'test-card signin-prompt';
-      prompt.innerHTML = `<div class="prompt">Sign in to unlock more tests<br/><span class="cta">Sign in</span></div>`;
-      prompt.addEventListener('click', () => {
-        document.getElementById('userArea')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      });
-      gridEl.appendChild(prompt);
-      return; // stop rendering further tests
-    }
+      // continue rendering all tests; access limits are applied later
   });
   // after rendering, update access limits (in case auth state known)
   setTimeout(() => applyAccessLimits(), 0);
@@ -160,12 +150,14 @@ function renderQuestions(questions) {
 // new: import helper to check signed-in user
 import { getSignedInUser } from './auth.js';
 
-// new: apply access limits for unsigned users (lock cards after first 5)
+// new: apply access limits for unsigned users (lock cards after first 30)
 function applyAccessLimits() {
   const signed = Boolean(getSignedInUser());
   // adjust selector if your card element uses a different class/selector
   const cards = document.querySelectorAll('.test-card');
   cards.forEach((card, i) => {
+    // allow unsigned users to access tests 1-5 (indexes 0-4)
+    // lock tests 6-30 (indexes 5-29) for unsigned users
     const locked = !signed && i >= 5;
     if (locked) {
       card.classList.add('locked');
