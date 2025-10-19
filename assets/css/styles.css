@@ -68,7 +68,6 @@ hr { border: none; border-top: 1px solid var(--border); margin: 1rem 0; }
   .question-container { grid-template-columns: 1fr 1fr; }
 }
 
-/* Quiz page styles */
 .progress { background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: .75rem; margin: 1rem 0; }
 .progress__row { display: flex; justify-content: space-between; align-items: center; gap: .5rem; margin-bottom: .5rem; }
 .timer { position: relative; height: 8px; background: #eef2f6; border-radius: 999px; overflow: hidden; }
